@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Home, BookOpen, FileText, BarChart3, Settings, Sun, Moon, Upload } from 'lucide-react';
+import { Home, BookOpen, FileText, BarChart3, Settings, Sun, Moon } from 'lucide-react';
 
 const navItems = [
   { name: 'Dashboard', href: '/', icon: Home, category: 'overview' },
@@ -11,7 +11,6 @@ const navItems = [
   { name: 'Flashcards', href: '/flashcards', icon: BookOpen, category: 'practice' },
   { name: 'Notes', href: '/notes', icon: FileText, category: 'personal' },
   { name: 'Progress', href: '/progress', icon: BarChart3, category: 'personal' },
-  { name: 'Impor Data', href: '/import', icon: Upload, category: 'settings' },
   { name: 'Settings', href: '/settings', icon: Settings, category: 'settings' },
 ];
 
@@ -72,13 +71,6 @@ export default function Sidebar({ isDark, onToggleTheme }: { isDark: boolean; on
 
       {/* Theme Toggle */}
       <div className="p-4 border-t border-border dark:border-dark-border">
-        <Link
-          href="/import"
-          className="flex items-center gap-3 px-3 py-2 rounded-lg text-sm text-primary-text dark:text-dark-primary-text hover:bg-soft-accent dark:hover:bg-dark-border w-full transition-colors mb-2"
-        >
-          <Upload size={18} />
-          Impor Data
-        </Link>
         <button
           onClick={onToggleTheme}
           className="flex items-center gap-3 px-3 py-2 rounded-lg text-sm text-primary-text dark:text-dark-primary-text hover:bg-soft-accent dark:hover:bg-dark-border w-full transition-colors"

@@ -5716,5 +5716,3525 @@
     "createdAt": 1793443118712,
     "updatedAt": 1793443118712,
     "source": "bundled"
+  },
+  {
+    "word": "学",
+    "kanji": "学",
+    "reading": "がく",
+    "meaning": "sekolah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "学校（がっこう）",
+        "translation": "sekolah"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-001"
+  },
+  {
+    "word": "生",
+    "kanji": "生",
+    "reading": "せい / しょう",
+    "meaning": "kehidupan sehari‑hari",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "生活（せいかつ）",
+        "translation": "kehidupan sehari‑hari"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-002"
+  },
+  {
+    "word": "校",
+    "kanji": "校",
+    "reading": "こう",
+    "meaning": "sekolah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "学校（がっこう）",
+        "translation": "sekolah"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-003"
+  },
+  {
+    "word": "予",
+    "kanji": "予",
+    "reading": "よ",
+    "meaning": "prediksi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "予想（よそう）",
+        "translation": "prediksi"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-004"
+  },
+  {
+    "word": "想",
+    "kanji": "想",
+    "reading": "そう",
+    "meaning": "bayangan, imajinasi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "想像（そうぞう）",
+        "translation": "bayangan, imajinasi"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-005"
+  },
+  {
+    "word": "働",
+    "kanji": "働",
+    "reading": "はたら",
+    "meaning": "bekerja",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "働く（はたらく）",
+        "translation": "bekerja"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-006"
+  },
+  {
+    "word": "心",
+    "kanji": "心",
+    "reading": "しん",
+    "meaning": "kekhawatiran",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "心配（しんぱい）",
+        "translation": "kekhawatiran"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-007"
+  },
+  {
+    "word": "期",
+    "kanji": "期",
+    "reading": "き",
+    "meaning": "jangka waktu",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "期間（きかん）",
+        "translation": "jangka waktu"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-008"
+  },
+  {
+    "word": "騒",
+    "kanji": "騒",
+    "reading": "そう",
+    "meaning": "kebisingan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "騒音（そうおん）",
+        "translation": "kebisingan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-009"
+  },
+  {
+    "word": "音",
+    "kanji": "音",
+    "reading": "おん / おと",
+    "meaning": "musik",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "音楽（おんがく）",
+        "translation": "musik"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-010"
+  },
+  {
+    "word": "読",
+    "kanji": "読",
+    "reading": "どく / よむ",
+    "meaning": "membaca",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "読む（よむ）",
+        "translation": "membaca"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-011"
+  },
+  {
+    "word": "書",
+    "kanji": "書",
+    "reading": "しょ / かく",
+    "meaning": "menulis",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "書く（かく）",
+        "translation": "menulis"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-012"
+  },
+  {
+    "word": "料",
+    "kanji": "料",
+    "reading": "りょう",
+    "meaning": "tarif",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "料金（りょうきん）",
+        "translation": "tarif"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-013"
+  },
+  {
+    "word": "価",
+    "kanji": "価",
+    "reading": "か",
+    "meaning": "nilai",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "価値（かち）",
+        "translation": "nilai"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-014"
+  },
+  {
+    "word": "券",
+    "kanji": "券",
+    "reading": "けん",
+    "meaning": "mesin penjual tiket",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "券売機（けんばいき）",
+        "translation": "mesin penjual tiket"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-015"
+  },
+  {
+    "word": "形",
+    "kanji": "形",
+    "reading": "けい / かたち",
+    "meaning": "bentuk, rupa",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "形状（けいじょう）",
+        "translation": "bentuk, rupa"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-016"
+  },
+  {
+    "word": "国",
+    "kanji": "国",
+    "reading": "こく",
+    "meaning": "negara",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "国家（こっか）",
+        "translation": "negara"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-017"
+  },
+  {
+    "word": "島",
+    "kanji": "島",
+    "reading": "しま",
+    "meaning": "kepulauan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "島嶼（とうしょ）",
+        "translation": "kepulauan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-018"
+  },
+  {
+    "word": "州",
+    "kanji": "州",
+    "reading": "しゅう",
+    "meaning": "pemerintah provinsi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "州政府（しゅうせいふ）",
+        "translation": "pemerintah provinsi"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-019"
+  },
+  {
+    "word": "多",
+    "kanji": "多",
+    "reading": "た",
+    "meaning": "banyak",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "多数（たすう）",
+        "translation": "banyak"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-020"
+  },
+  {
+    "word": "少",
+    "kanji": "少",
+    "reading": "しょう",
+    "meaning": "sedikit, minoritas",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "少数（しょうすう）",
+        "translation": "sedikit, minoritas"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-021"
+  },
+  {
+    "word": "強",
+    "kanji": "強",
+    "reading": "きょう",
+    "meaning": "kuat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "強い（つよい）",
+        "translation": "kuat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-022"
+  },
+  {
+    "word": "弱",
+    "kanji": "弱",
+    "reading": "じゃく",
+    "meaning": "lemah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "弱い（よわい）",
+        "translation": "lemah"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-023"
+  },
+  {
+    "word": "沢",
+    "kanji": "沢",
+    "reading": "さわ",
+    "meaning": "banyak (bentuk lain)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "沢山（たくさん）",
+        "translation": "banyak (bentuk lain)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-024"
+  },
+  {
+    "word": "足",
+    "kanji": "足",
+    "reading": "そく / あし",
+    "meaning": "cukup, mencukupi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "足りる（たりる）",
+        "translation": "cukup, mencukupi"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-025"
+  },
+  {
+    "word": "面",
+    "kanji": "面",
+    "reading": "めん",
+    "meaning": "permukaan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "表面（ひょうめん）",
+        "translation": "permukaan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-026"
+  },
+  {
+    "word": "色",
+    "kanji": "色",
+    "reading": "しょく / いろ",
+    "meaning": "warna",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "色彩（しきさい）",
+        "translation": "warna"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-027"
+  },
+  {
+    "word": "出",
+    "kanji": "出",
+    "reading": "しゅつ / でる",
+    "meaning": "pintu keluar",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "出口（でぐち）",
+        "translation": "pintu keluar"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-028"
+  },
+  {
+    "word": "入",
+    "kanji": "入",
+    "reading": "にゅう / はいる",
+    "meaning": "masuk sekolah/universitas",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "入学（にゅうがく）",
+        "translation": "masuk sekolah/universitas"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-029"
+  },
+  {
+    "word": "知",
+    "kanji": "知",
+    "reading": "ち / しる",
+    "meaning": "pengetahuan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "知識（ちしき）",
+        "translation": "pengetahuan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-030"
+  },
+  {
+    "word": "言",
+    "kanji": "言",
+    "reading": "げん / いう",
+    "meaning": "kata, bahasa",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "言葉（ことば）",
+        "translation": "kata, bahasa"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-031"
+  },
+  {
+    "word": "話",
+    "kanji": "話",
+    "reading": "わ",
+    "meaning": "percakapan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "会話（かいわ）",
+        "translation": "percakapan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-032"
+  },
+  {
+    "word": "昨",
+    "kanji": "昨",
+    "reading": "さく",
+    "meaning": "kemarin",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "昨日（きのう）",
+        "translation": "kemarin"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-033"
+  },
+  {
+    "word": "今",
+    "kanji": "今",
+    "reading": "こん",
+    "meaning": "malam ini",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "今夜（こんや）",
+        "translation": "malam ini"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-034"
+  },
+  {
+    "word": "明",
+    "kanji": "明",
+    "reading": "めい",
+    "meaning": "besok",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "明日（あす）",
+        "translation": "besok"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-035"
+  },
+  {
+    "word": "暗",
+    "kanji": "暗",
+    "reading": "あん",
+    "meaning": "kegelapan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "暗闇（くらやみ）",
+        "translation": "kegelapan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-036"
+  },
+  {
+    "word": "歴",
+    "kanji": "歴",
+    "reading": "れき",
+    "meaning": "sejarah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "歴史（れきし）",
+        "translation": "sejarah"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-037"
+  },
+  {
+    "word": "曜",
+    "kanji": "曜",
+    "reading": "よう",
+    "meaning": "hari Senin",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "月曜日（げつようび）",
+        "translation": "hari Senin"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-038"
+  },
+  {
+    "word": "旅",
+    "kanji": "旅",
+    "reading": "たび",
+    "meaning": "perjalanan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "旅行（りょこう）",
+        "translation": "perjalanan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-039"
+  },
+  {
+    "word": "銀",
+    "kanji": "銀",
+    "reading": "ぎん",
+    "meaning": "bank",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "銀行（ぎんこう）",
+        "translation": "bank"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-040"
+  },
+  {
+    "word": "金",
+    "kanji": "金",
+    "reading": "きん",
+    "meaning": "jumlah uang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "金額（きんがく）",
+        "translation": "jumlah uang"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-041"
+  },
+  {
+    "word": "瞬",
+    "kanji": "瞬",
+    "reading": "しゅん",
+    "meaning": "momen",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "瞬間（しゅんかん）",
+        "translation": "momen"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-042"
+  },
+  {
+    "word": "静",
+    "kanji": "静",
+    "reading": "せい",
+    "meaning": "tenang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "静か（しずか）",
+        "translation": "tenang"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-043"
+  },
+  {
+    "word": "階",
+    "kanji": "階",
+    "reading": "かい",
+    "meaning": "tangga",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "階段（かいだん）",
+        "translation": "tangga"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-044"
+  },
+  {
+    "word": "部",
+    "kanji": "部",
+    "reading": "ぶ",
+    "meaning": "kamar/ruangan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "部屋（へや）",
+        "translation": "kamar/ruangan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-045"
+  },
+  {
+    "word": "続",
+    "kanji": "続",
+    "reading": "ぞく",
+    "meaning": "berlanjut",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "続く（つづく）",
+        "translation": "berlanjut"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-046"
+  },
+  {
+    "word": "速",
+    "kanji": "速",
+    "reading": "そく",
+    "meaning": "cepat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "速い（はやい）",
+        "translation": "cepat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-047"
+  },
+  {
+    "word": "遅",
+    "kanji": "遅",
+    "reading": "ち",
+    "meaning": "lambat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "遅い（おそい）",
+        "translation": "lambat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-048"
+  },
+  {
+    "word": "過",
+    "kanji": "過",
+    "reading": "か",
+    "meaning": "masa lalu",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "過去（かこ）",
+        "translation": "masa lalu"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-049"
+  },
+  {
+    "word": "変",
+    "kanji": "変",
+    "reading": "へん",
+    "meaning": "mengubah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "変える（かえる）",
+        "translation": "mengubah"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-050"
+  },
+  {
+    "word": "直",
+    "kanji": "直",
+    "reading": "ちょく",
+    "meaning": "langsung",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "直接（ちょくせつ）",
+        "translation": "langsung"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-051"
+  },
+  {
+    "word": "選",
+    "kanji": "選",
+    "reading": "せん",
+    "meaning": "pilihan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "選択（せんたく）",
+        "translation": "pilihan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-052"
+  },
+  {
+    "word": "頭",
+    "kanji": "頭",
+    "reading": "とう / あたま",
+    "meaning": "otak",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "頭脳（ずのう）",
+        "translation": "otak"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-053"
+  },
+  {
+    "word": "像",
+    "kanji": "像",
+    "reading": "ぞう",
+    "meaning": "gambaran, citra",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "像徴（ぞうちょう）",
+        "translation": "gambaran, citra"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-054"
+  },
+  {
+    "word": "目的",
+    "kanji": "目的",
+    "reading": "もくてき",
+    "meaning": "tujuan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "目的（もくてき）",
+        "translation": "tujuan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-055"
+  },
+  {
+    "word": "番",
+    "kanji": "番",
+    "reading": "ばん",
+    "meaning": "nomor",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "番号（ばんごう）",
+        "translation": "nomor"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-056"
+  },
+  {
+    "word": "重要",
+    "kanji": "重要",
+    "reading": "じゅうよう",
+    "meaning": "penting",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "重要（じゅうよう）",
+        "translation": "penting"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-057"
+  },
+  {
+    "word": "手紙",
+    "kanji": "手紙",
+    "reading": "てがみ",
+    "meaning": "surat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "手紙（てがみ）",
+        "translation": "surat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-058"
+  },
+  {
+    "word": "学者",
+    "kanji": "学者",
+    "reading": "がくしゃ",
+    "meaning": "ilmuwan/akademisi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "学者（がくしゃ）",
+        "translation": "ilmuwan/akademisi"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-059"
+  },
+  {
+    "word": "老",
+    "kanji": "老",
+    "reading": "ろう",
+    "meaning": "orang tua",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "老人（ろうじん）",
+        "translation": "orang tua"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-060"
+  },
+  {
+    "word": "友",
+    "kanji": "友",
+    "reading": "ゆう",
+    "meaning": "teman",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "友達（ともだち）",
+        "translation": "teman"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-061"
+  },
+  {
+    "word": "近",
+    "kanji": "近",
+    "reading": "きん",
+    "meaning": "dekat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "近く（ちかく）",
+        "translation": "dekat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-062"
+  },
+  {
+    "word": "遠",
+    "kanji": "遠",
+    "reading": "えん",
+    "meaning": "jauh",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "遠い（とおい）",
+        "translation": "jauh"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-063"
+  },
+  {
+    "word": "騒音",
+    "kanji": "騒音",
+    "reading": "そうおん",
+    "meaning": "kebisingan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "騒音（そうおん）",
+        "translation": "kebisingan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-064"
+  },
+  {
+    "word": "雰囲気",
+    "kanji": "雰囲気",
+    "reading": "ふんいき",
+    "meaning": "atmosfer, suasana",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "雰囲気（ふんいき）",
+        "translation": "atmosfer, suasana"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-065"
+  },
+  {
+    "word": "条件",
+    "kanji": "条件",
+    "reading": "じょうけん",
+    "meaning": "syarat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "条件（じょうけん）",
+        "translation": "syarat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-066"
+  },
+  {
+    "word": "結果",
+    "kanji": "結果",
+    "reading": "けっか",
+    "meaning": "hasil",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "結果（けっか）",
+        "translation": "hasil"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-067"
+  },
+  {
+    "word": "追加",
+    "kanji": "追加",
+    "reading": "ついか",
+    "meaning": "tambahan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "追加（ついか）",
+        "translation": "tambahan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-068"
+  },
+  {
+    "word": "持続",
+    "kanji": "持続",
+    "reading": "じぞく",
+    "meaning": "berkelanjutan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "持続（じぞく）",
+        "translation": "berkelanjutan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-069"
+  },
+  {
+    "word": "形成",
+    "kanji": "形成",
+    "reading": "けいせい",
+    "meaning": "pembentukan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "形成（けいせい）",
+        "translation": "pembentukan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-070"
+  },
+  {
+    "word": "知覚",
+    "kanji": "知覚",
+    "reading": "ちかく",
+    "meaning": "persepsi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "知覚（ちかく）",
+        "translation": "persepsi"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-071"
+  },
+  {
+    "word": "観点",
+    "kanji": "観点",
+    "reading": "かんてん",
+    "meaning": "sudut pandang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "観点（かんてん）",
+        "translation": "sudut pandang"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-072"
+  },
+  {
+    "word": "直接",
+    "kanji": "直接",
+    "reading": "ちょくせつ",
+    "meaning": "langsung",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "直接（ちょくせつ）",
+        "translation": "langsung"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-073"
+  },
+  {
+    "word": "可能",
+    "kanji": "可能",
+    "reading": "かのう",
+    "meaning": "memungkinkan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "可能（かのう）",
+        "translation": "memungkinkan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-074"
+  },
+  {
+    "word": "期待",
+    "kanji": "期待",
+    "reading": "きたい",
+    "meaning": "harapan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "期待（きたい）",
+        "translation": "harapan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h1",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h1-075"
+  },
+  {
+    "word": "耕",
+    "kanji": "耕",
+    "reading": "たがや(す)",
+    "meaning": "membajak",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "耕して",
+        "translation": "membajak"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-076"
+  },
+  {
+    "word": "占",
+    "kanji": "占",
+    "reading": "し(める)",
+    "meaning": "menempati/menguasai",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "占める",
+        "translation": "menempati/menguasai"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-077"
+  },
+  {
+    "word": "担",
+    "kanji": "担",
+    "reading": "かつ(ぐ)",
+    "meaning": "memikul/mengangkat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "担ぐ",
+        "translation": "memikul/mengangkat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-078"
+  },
+  {
+    "word": "用",
+    "kanji": "用",
+    "reading": "もち(いる)",
+    "meaning": "digunakan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "用いられている",
+        "translation": "digunakan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-079"
+  },
+  {
+    "word": "引",
+    "kanji": "引",
+    "reading": "ひ(きだす)",
+    "meaning": "menarik keluar",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "引き出す",
+        "translation": "menarik keluar"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-080"
+  },
+  {
+    "word": "売",
+    "kanji": "売",
+    "reading": "う(りきれる)",
+    "meaning": "terjual habis",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "売り切れる",
+        "translation": "terjual habis"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-081"
+  },
+  {
+    "word": "実習",
+    "kanji": "実習",
+    "reading": "じっしゅう",
+    "meaning": "latihan praktik",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "教育実習",
+        "translation": "latihan praktik"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-082"
+  },
+  {
+    "word": "舞台",
+    "kanji": "舞台",
+    "reading": "ぶたい",
+    "meaning": "sisi kanan panggung",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "舞台の上手",
+        "translation": "sisi kanan panggung"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-083"
+  },
+  {
+    "word": "登場",
+    "kanji": "登場",
+    "reading": "とうじょう",
+    "meaning": "aktor muncul",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "俳優が登場する",
+        "translation": "aktor muncul"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-084"
+  },
+  {
+    "word": "排水",
+    "kanji": "排水",
+    "reading": "はいすい",
+    "meaning": "air limbah pabrik",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "工場の排水",
+        "translation": "air limbah pabrik"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-085"
+  },
+  {
+    "word": "苦情",
+    "kanji": "苦情",
+    "reading": "くじょう",
+    "meaning": "keluhan muncul",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "苦情が出る",
+        "translation": "keluhan muncul"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-086"
+  },
+  {
+    "word": "印象",
+    "kanji": "印象",
+    "reading": "いんしょう",
+    "meaning": "kesan yang baik",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "いい印象",
+        "translation": "kesan yang baik"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-087"
+  },
+  {
+    "word": "噴火",
+    "kanji": "噴火",
+    "reading": "ふんか",
+    "meaning": "letusan gunung berapi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "火山の噴火",
+        "translation": "letusan gunung berapi"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-088"
+  },
+  {
+    "word": "住宅",
+    "kanji": "住宅",
+    "reading": "じゅうたく",
+    "meaning": "rumah terbakar",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "住宅が燃える",
+        "translation": "rumah terbakar"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-089"
+  },
+  {
+    "word": "拒否",
+    "kanji": "拒否",
+    "reading": "きょひ",
+    "meaning": "ditolak",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "拒否された",
+        "translation": "ditolak"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-090"
+  },
+  {
+    "word": "乗車",
+    "kanji": "乗車",
+    "reading": "じょうしゃ",
+    "meaning": "naik kendaraan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "乗車する",
+        "translation": "naik kendaraan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-091"
+  },
+  {
+    "word": "疲",
+    "kanji": "疲",
+    "reading": "つか(れる)",
+    "meaning": "lelah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "疲れた",
+        "translation": "lelah"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-092"
+  },
+  {
+    "word": "走",
+    "kanji": "走",
+    "reading": "はし(りきる)",
+    "meaning": "berlari sampai akhir",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "走りきる",
+        "translation": "berlari sampai akhir"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-093"
+  },
+  {
+    "word": "少数",
+    "kanji": "少数",
+    "reading": "しょうすう",
+    "meaning": "pendapat minoritas",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "少数意見",
+        "translation": "pendapat minoritas"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-094"
+  },
+  {
+    "word": "重",
+    "kanji": "重",
+    "reading": "おも(んじる)",
+    "meaning": "menghargai pendapat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "意見を重んじる",
+        "translation": "menghargai pendapat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-095"
+  },
+  {
+    "word": "天井",
+    "kanji": "天井",
+    "reading": "てんじょう",
+    "meaning": "dari langit-langit",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "天井から",
+        "translation": "dari langit-langit"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-096"
+  },
+  {
+    "word": "ぶら下",
+    "kanji": "ぶら下",
+    "reading": "ぶらさ(げる)",
+    "meaning": "menggantungkan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ぶら下げる",
+        "translation": "menggantungkan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-097"
+  },
+  {
+    "word": "着物",
+    "kanji": "着物",
+    "reading": "きもの",
+    "meaning": "memakai kimono",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "着物を着る",
+        "translation": "memakai kimono"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-098"
+  },
+  {
+    "word": "出発",
+    "kanji": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "waktu keberangkatan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "出発時間",
+        "translation": "waktu keberangkatan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-099"
+  },
+  {
+    "word": "皮肉",
+    "kanji": "皮肉",
+    "reading": "ひにく",
+    "meaning": "situasi ironis",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "皮肉な状況",
+        "translation": "situasi ironis"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-100"
+  },
+  {
+    "word": "割引",
+    "kanji": "割引",
+    "reading": "わりびき",
+    "meaning": "memberikan diskon",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "割引する",
+        "translation": "memberikan diskon"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-101"
+  },
+  {
+    "word": "信用",
+    "kanji": "信用",
+    "reading": "しんよう",
+    "meaning": "tidak bisa dipercaya",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "信用できない",
+        "translation": "tidak bisa dipercaya"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-102"
+  },
+  {
+    "word": "和服",
+    "kanji": "和服",
+    "reading": "わふく",
+    "meaning": "cocok memakai baju Jepang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "和服が似合う",
+        "translation": "cocok memakai baju Jepang"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-103"
+  },
+  {
+    "word": "農薬",
+    "kanji": "農薬",
+    "reading": "のうやく",
+    "meaning": "menggunakan pestisida",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "農薬を使う",
+        "translation": "menggunakan pestisida"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-104"
+  },
+  {
+    "word": "野菜",
+    "kanji": "野菜",
+    "reading": "やさい",
+    "meaning": "makan sayuran",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "野菜を食べる",
+        "translation": "makan sayuran"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h2"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h2",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h2-105"
+  },
+  {
+    "word": "限",
+    "kanji": "限",
+    "reading": "かぎ(る)",
+    "meaning": "“justru” (ironi)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "限って",
+        "translation": "“justru” (ironi)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-106"
+  },
+  {
+    "word": "から",
+    "kanji": "から",
+    "reading": "から",
+    "meaning": "“mulai dari / contoh”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "からして",
+        "translation": "“mulai dari / contoh”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-107"
+  },
+  {
+    "word": "もの",
+    "kanji": "もの",
+    "reading": "もの",
+    "meaning": "“meskipun”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ものの",
+        "translation": "“meskipun”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-108"
+  },
+  {
+    "word": "代",
+    "kanji": "代",
+    "reading": "かえる",
+    "meaning": "“menggantikan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "に代わって",
+        "translation": "“menggantikan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-109"
+  },
+  {
+    "word": "しか",
+    "kanji": "しか",
+    "reading": "しか",
+    "meaning": "“tidak ada pilihan lain”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "しかない",
+        "translation": "“tidak ada pilihan lain”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-110"
+  },
+  {
+    "word": "上",
+    "kanji": "上",
+    "reading": "うえ",
+    "meaning": "“secara teori”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "の上では",
+        "translation": "“secara teori”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-111"
+  },
+  {
+    "word": "お届け",
+    "kanji": "お届け",
+    "reading": "おとどけ",
+    "meaning": "“mengantarkan (kenjougo)”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "お届けにあがります",
+        "translation": "“mengantarkan (kenjougo)”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-112"
+  },
+  {
+    "word": "心配",
+    "kanji": "心配",
+    "reading": "しんぱい",
+    "meaning": "“betapa cemas” (seruan)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "心配したことか",
+        "translation": "“betapa cemas” (seruan)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-113"
+  },
+  {
+    "word": "見",
+    "kanji": "見",
+    "reading": "みる",
+    "meaning": "“pasti melihat”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "見ないわけはない",
+        "translation": "“pasti melihat”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-114"
+  },
+  {
+    "word": "食",
+    "kanji": "食",
+    "reading": "たべる",
+    "meaning": "“seharusnya tidak makan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "食べるべきではない",
+        "translation": "“seharusnya tidak makan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-115"
+  },
+  {
+    "word": "応対",
+    "kanji": "応対",
+    "reading": "おうたい",
+    "meaning": "“melayani pelanggan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "客の応対に追われる",
+        "translation": "“melayani pelanggan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-116"
+  },
+  {
+    "word": "体制",
+    "kanji": "体制",
+    "reading": "たいせい",
+    "meaning": "“sistem/tatanan baru”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "新しい体制",
+        "translation": "“sistem/tatanan baru”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-117"
+  },
+  {
+    "word": "渋滞",
+    "kanji": "渋滞",
+    "reading": "じゅうたい",
+    "meaning": "“kemacetan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "渋滞がひどい",
+        "translation": "“kemacetan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-118"
+  },
+  {
+    "word": "観測",
+    "kanji": "観測",
+    "reading": "かんそく",
+    "meaning": "“mengobservasi”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "望遠鏡で観測する",
+        "translation": "“mengobservasi”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-119"
+  },
+  {
+    "word": "構成",
+    "kanji": "構成",
+    "reading": "こうせい",
+    "meaning": "“komposisi”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "構成が明確だ",
+        "translation": "“komposisi”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-120"
+  },
+  {
+    "word": "防犯",
+    "kanji": "防犯",
+    "reading": "ぼうはん",
+    "meaning": "“kamera keamanan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "防犯カメラ",
+        "translation": "“kamera keamanan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-121"
+  },
+  {
+    "word": "行方",
+    "kanji": "行方",
+    "reading": "ゆくえ",
+    "meaning": "“keberadaan tidak diketahui”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "行方不明",
+        "translation": "“keberadaan tidak diketahui”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-122"
+  },
+  {
+    "word": "農業",
+    "kanji": "農業",
+    "reading": "のうぎょう",
+    "meaning": "“pertanian”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "農業がさかん",
+        "translation": "“pertanian”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-123"
+  },
+  {
+    "word": "失望",
+    "kanji": "失望",
+    "reading": "しつぼう",
+    "meaning": "“mengecewakan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "失望させた",
+        "translation": "“mengecewakan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-124"
+  },
+  {
+    "word": "失敗",
+    "kanji": "失敗",
+    "reading": "しっぱい",
+    "meaning": "“gagal”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "失敗した",
+        "translation": "“gagal”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-125"
+  },
+  {
+    "word": "手紙",
+    "kanji": "手紙",
+    "reading": "てがみ",
+    "meaning": "“surat”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "手紙を書く",
+        "translation": "“surat”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-126"
+  },
+  {
+    "word": "先生",
+    "kanji": "先生",
+    "reading": "せんせい",
+    "meaning": "“guru”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "先生になる",
+        "translation": "“guru”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-127"
+  },
+  {
+    "word": "学者",
+    "kanji": "学者",
+    "reading": "がくしゃ",
+    "meaning": "“ilmuwan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "学者になる",
+        "translation": "“ilmuwan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-128"
+  },
+  {
+    "word": "老",
+    "kanji": "老",
+    "reading": "ろう",
+    "meaning": "“tua”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "老人",
+        "translation": "“tua”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-129"
+  },
+  {
+    "word": "友",
+    "kanji": "友",
+    "reading": "ゆう",
+    "meaning": "“teman”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "友達",
+        "translation": "“teman”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-130"
+  },
+  {
+    "word": "近",
+    "kanji": "近",
+    "reading": "きん",
+    "meaning": "“dekat”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "近く",
+        "translation": "“dekat”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-131"
+  },
+  {
+    "word": "遠",
+    "kanji": "遠",
+    "reading": "えん",
+    "meaning": "“jauh”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "遠い",
+        "translation": "“jauh”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-132"
+  },
+  {
+    "word": "騒音",
+    "kanji": "騒音",
+    "reading": "そうおん",
+    "meaning": "“kebisingan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "騒音がひどい",
+        "translation": "“kebisingan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-133"
+  },
+  {
+    "word": "雰囲気",
+    "kanji": "雰囲気",
+    "reading": "ふんいき",
+    "meaning": "“suasana”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "雰囲気が良い",
+        "translation": "“suasana”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-134"
+  },
+  {
+    "word": "条件",
+    "kanji": "条件",
+    "reading": "じょうけん",
+    "meaning": "“syarat”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "条件が揃う",
+        "translation": "“syarat”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-135"
+  },
+  {
+    "word": "結果",
+    "kanji": "結果",
+    "reading": "けっか",
+    "meaning": "“hasil”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "結果が出る",
+        "translation": "“hasil”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-136"
+  },
+  {
+    "word": "追加",
+    "kanji": "追加",
+    "reading": "ついか",
+    "meaning": "“menambahkan”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "追加する",
+        "translation": "“menambahkan”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-137"
+  },
+  {
+    "word": "すぐに",
+    "kanji": "すぐに",
+    "reading": "すぐに",
+    "meaning": "“segera”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "すぐに戻る",
+        "translation": "“segera”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-138"
+  },
+  {
+    "word": "迷う",
+    "kanji": "迷う",
+    "reading": "まよう",
+    "meaning": "“bingung”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "迷うこと",
+        "translation": "“bingung”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-139"
+  },
+  {
+    "word": "ゆるく",
+    "kanji": "ゆるく",
+    "reading": "ゆるく",
+    "meaning": "“longgar”",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ゆるくなる",
+        "translation": "“longgar”"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h3"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h3",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h3-140"
+  },
+  {
+    "word": "空想",
+    "kanji": "空想",
+    "reading": "くうそう",
+    "meaning": "melamun/berkhayal",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "空想",
+        "translation": "melamun/berkhayal"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-141"
+  },
+  {
+    "word": "偉い",
+    "kanji": "偉い",
+    "reading": "えらい",
+    "meaning": "orang besar/terhormat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "偉い",
+        "translation": "orang besar/terhormat"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-142"
+  },
+  {
+    "word": "触る",
+    "kanji": "触る",
+    "reading": "さわる",
+    "meaning": "menyentuh dengan tangan telanjang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "触る",
+        "translation": "menyentuh dengan tangan telanjang"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-143"
+  },
+  {
+    "word": "払い",
+    "kanji": "払い",
+    "reading": "はらい",
+    "meaning": "mengembalikan uang (refund)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "払い",
+        "translation": "mengembalikan uang (refund)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-144"
+  },
+  {
+    "word": "思い出す",
+    "kanji": "思い出す",
+    "reading": "おもいだす",
+    "meaning": "teringat/pikir ide",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "思い出す",
+        "translation": "teringat/pikir ide"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-145"
+  },
+  {
+    "word": "最高",
+    "kanji": "最高",
+    "reading": "さいこう",
+    "meaning": "karya terbaik",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "最高",
+        "translation": "karya terbaik"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-146"
+  },
+  {
+    "word": "出入り",
+    "kanji": "出入り",
+    "reading": "でいり",
+    "meaning": "pintu masuk/keluar sempit",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "出入り",
+        "translation": "pintu masuk/keluar sempit"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-147"
+  },
+  {
+    "word": "選手権",
+    "kanji": "選手権",
+    "reading": "せんしゅけん",
+    "meaning": "Kejuaraan Nasional Rowing",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "選手権",
+        "translation": "Kejuaraan Nasional Rowing"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-148"
+  },
+  {
+    "word": "過大",
+    "kanji": "過大",
+    "reading": "かだい",
+    "meaning": "overconfident",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "過大",
+        "translation": "overconfident"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-149"
+  },
+  {
+    "word": "海老で鯉を釣る",
+    "kanji": "海老で鯉を釣る",
+    "reading": "えびでこいをつる",
+    "meaning": "umpan kecil ikan besar (berani nekat)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "海老で鯉を釣る",
+        "translation": "umpan kecil ikan besar (berani nekat)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-150"
+  },
+  {
+    "word": "窓口",
+    "kanji": "窓口",
+    "reading": "まどぐち",
+    "meaning": "loket kantor pos",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "窓口",
+        "translation": "loket kantor pos"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-151"
+  },
+  {
+    "word": "就職",
+    "kanji": "就職",
+    "reading": "しゅうしょく",
+    "meaning": "menemukan pekerjaan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "就職",
+        "translation": "menemukan pekerjaan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-152"
+  },
+  {
+    "word": "広げる",
+    "kanji": "広げる",
+    "reading": "ひろげる",
+    "meaning": "melebarkan jalan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "広げる",
+        "translation": "melebarkan jalan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-153"
+  },
+  {
+    "word": "回復",
+    "kanji": "回復",
+    "reading": "かいふく",
+    "meaning": "pemulihan kesehatan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "回復",
+        "translation": "pemulihan kesehatan"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-154"
+  },
+  {
+    "word": "資源",
+    "kanji": "資源",
+    "reading": "しげん",
+    "meaning": "negara miskin sumber daya",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "資源",
+        "translation": "negara miskin sumber daya"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-155"
+  },
+  {
+    "word": "完全に",
+    "kanji": "完全に",
+    "reading": "かんぜんに",
+    "meaning": "berubah total (syn: すっかり)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "完全に",
+        "translation": "berubah total (syn: すっかり)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-156"
+  },
+  {
+    "word": "無事",
+    "kanji": "無事",
+    "reading": "ぶじ",
+    "meaning": "mendoakan keselamatan (syn: 平穏)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "無事",
+        "translation": "mendoakan keselamatan (syn: 平穏)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-157"
+  },
+  {
+    "word": "少しでも",
+    "kanji": "少しでも",
+    "reading": "すこしでも",
+    "meaning": "sama sekali tidak tahu (syn: ちっとも)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "少しでも",
+        "translation": "sama sekali tidak tahu (syn: ちっとも)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-158"
+  },
+  {
+    "word": "ずらりと",
+    "kanji": "ずらりと",
+    "reading": "ずらりと",
+    "meaning": "berjajar rapi (syn: 横に)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ずらりと",
+        "translation": "berjajar rapi (syn: 横に)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-159"
+  },
+  {
+    "word": "静寂",
+    "kanji": "静寂",
+    "reading": "せじゃく",
+    "meaning": "hening/sepi (syn: 静かだった)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "静寂",
+        "translation": "hening/sepi (syn: 静かだった)"
+      }
+    ],
+    "tags": [
+      "jlpt-n2",
+      "h4"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "h4",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "id": "h4-160"
   }
 ]
