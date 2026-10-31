@@ -2,9 +2,9 @@
   "manifestVersion": 1,
   "schemaVersion": "1.0.0",
   "contentVersion": "1.0.0",
-  "lastUpdated": "2026-01-01T00:00:00.000Z",
+  "lastUpdated": "2026-10-31T19:40:00.000Z",
   "bunpouCount": 30,
-  "kotobaCount": 100,
-  "packName": "NihonggoKu Starter Pack",
-  "packDescription": "Practical Japanese grammar patterns and everyday vocabulary for daily communication"
+  "kotobaCount": 270,
+  "packName": "NihonggoKu JLPT N2 + Bunpou Pack",
+  "packDescription": "JLPT N2 vocabulary and grammar patterns from H1-H4 files"
 }

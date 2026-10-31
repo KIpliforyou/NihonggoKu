@@ -6,10 +6,22 @@
     "function": "Menyatakan aksi yang sedang berlangsung atau hasil yang masih bertahan",
     "formation": "Verba -te + iru",
     "examples": [
-      {"japanese": "本を読んでいる", "reading": "ほんをよんでいる", "translation": "Saya sedang membaca buku"},
-      {"japanese": "結婚している", "reading": "けっこんしている", "translation": "Saya sudah menikah"}
+      {
+        "japanese": "本を読んでいる",
+        "reading": "ほんをよんでいる",
+        "translation": "Saya sedang membaca buku"
+      },
+      {
+        "japanese": "結婚している",
+        "reading": "けっこんしている",
+        "translation": "Saya sudah menikah"
+      }
     ],
-    "tags": ["verba", "lanjutan", "dasar"]
+    "tags": [
+      "verba",
+      "lanjutan",
+      "dasar"
+    ]
   },
   {
     "id": "bp-002",
@@ -18,10 +30,20 @@
     "function": "Menyatakan sesuatu yang sudah selesai sepenuhnya, atau penyesalan",
     "formation": "Verba -te + shimau",
     "examples": [
-      {"japanese": "電車を忘れてしまった", "translation": "Saya lupa kereta (dan sudah terlalu terlambat)"},
-      {"japanese": "全部食べてしまった", "translation": "Saya sudah menghabiskan semuanya"}
+      {
+        "japanese": "電車を忘れてしまった",
+        "translation": "Saya lupa kereta (dan sudah terlalu terlambat)"
+      },
+      {
+        "japanese": "全部食べてしまった",
+        "translation": "Saya sudah menghabiskan semuanya"
+      }
     ],
-    "tags": ["verba", "penyesalan", "penyelesaian"]
+    "tags": [
+      "verba",
+      "penyesalan",
+      "penyelesaian"
+    ]
   },
   {
     "id": "bp-003",
@@ -30,10 +52,21 @@
     "function": "Mencoba melakukan sesuatu untuk melihat hasilnya",
     "formation": "Verba -te + miru",
     "examples": [
-      {"japanese": "日本料理食べてみた", "translation": "Saya mencoba makan makanan Jepang"},
-      {"japanese": "試してください", "reading": "ためしてください", "translation": "Silakan coba"}
+      {
+        "japanese": "日本料理食べてみた",
+        "translation": "Saya mencoba makan makanan Jepang"
+      },
+      {
+        "japanese": "試してください",
+        "reading": "ためしてください",
+        "translation": "Silakan coba"
+      }
     ],
-    "tags": ["verba", "percobaan", "dasar"]
+    "tags": [
+      "verba",
+      "percobaan",
+      "dasar"
+    ]
   },
   {
     "id": "bp-004",
@@ -42,10 +75,20 @@
     "function": "Menyatakan kewajiban atau keharusan",
     "formation": "Bentuk negatif verba + to ikagenai",
     "examples": [
-      {"japanese": "勉強しなければならない", "translation": "Saya harus belajar"},
-      {"japanese": "行かなければなりません", "reading": "いかねばなりません", "translation": "Saya harus pergi (sopan)"}
+      {
+        "japanese": "勉強しなければならない",
+        "translation": "Saya harus belajar"
+      },
+      {
+        "japanese": "行かなければなりません",
+        "reading": "いかねばなりません",
+        "translation": "Saya harus pergi (sopan)"
+      }
     ],
-    "tags": ["kewajiban", "dasar"]
+    "tags": [
+      "kewajiban",
+      "dasar"
+    ]
   },
   {
     "id": "bp-005",
@@ -54,10 +97,19 @@
     "function": "Memberikan izin atau persetujuan",
     "formation": "Bentuk -te + mo ii",
     "examples": [
-      {"japanese": "入ってもいいですか", "translation": "Boleh masuk?"},
-      {"japanese": "写真を撮ってもいいですよ", "translation": "Boleh mengambil foto kok"}
+      {
+        "japanese": "入ってもいいですか",
+        "translation": "Boleh masuk?"
+      },
+      {
+        "japanese": "写真を撮ってもいいですよ",
+        "translation": "Boleh mengambil foto kok"
+      }
     ],
-    "tags": ["izin", "dasar"]
+    "tags": [
+      "izin",
+      "dasar"
+    ]
   },
   {
     "id": "bp-006",
@@ -66,10 +118,21 @@
     "function": "Menyatakan tingkat yang berlebihan",
     "formation": "Adjektiva -sugiru / Adjektiva -ku + sugiru",
     "examples": [
-      {"japanese": "高すぎる", "reading": "たかすぎる", "translation": "Terlalu mahal"},
-      {"japanese": "食べすぎた", "translation": "Saya makan terlalu banyak"}
+      {
+        "japanese": "高すぎる",
+        "reading": "たかすぎる",
+        "translation": "Terlalu mahal"
+      },
+      {
+        "japanese": "食べすぎた",
+        "translation": "Saya makan terlalu banyak"
+      }
     ],
-    "tags": ["adjektiva", "derajat", "dasar"]
+    "tags": [
+      "adjektiva",
+      "derajat",
+      "dasar"
+    ]
   },
   {
     "id": "bp-007",
@@ -78,10 +141,19 @@
     "function": "Mengungkapkan kesan visual atau dugaan berdasarkan pengamatan",
     "formation": "Adjektiva stem + sou / Verba -soo",
     "examples": [
-      {"japanese": "美味しいそうですね", "translation": "Sepertinya enak ya"},
-      {"japanese": "雨が降りそうです", "translation": "Sepertinya akan hujan"}
+      {
+        "japanese": "美味しいそうですね",
+        "translation": "Sepertinya enak ya"
+      },
+      {
+        "japanese": "雨が降りそうです",
+        "translation": "Sepertinya akan hujan"
+      }
     ],
-    "tags": ["pengamatan", "dugaan"]
+    "tags": [
+      "pengamatan",
+      "dugaan"
+    ]
   },
   {
     "id": "bp-008",
@@ -90,10 +162,20 @@
     "function": "Mengungkapkan dugaan atau perbandingan",
     "formation": "Nomina + no + mitai da / Verba -nda + mitai",
     "examples": [
-      {"japanese": "雨が降ったみたいです", "translation": "Sepertinya sudah hujan"},
-      {"japanese": "猫みたいです", "reading": "ねこみたいです", "translation": "Seperti kucing"}
+      {
+        "japanese": "雨が降ったみたいです",
+        "translation": "Sepertinya sudah hujan"
+      },
+      {
+        "japanese": "猫みたいです",
+        "reading": "ねこみたいです",
+        "translation": "Seperti kucing"
+      }
     ],
-    "tags": ["dugaan", "perbandingan"]
+    "tags": [
+      "dugaan",
+      "perbandingan"
+    ]
   },
   {
     "id": "bp-009",
@@ -102,10 +184,19 @@
     "function": "Menyatakan kemampuan atau kesempatan",
     "formation": "Bentuk kamuu + koto ga dekiru",
     "examples": [
-      {"japanese": "日本語話すことができます", "translation": "Saya bisa berbicara bahasa Jepang"},
-      {"japanese": "会議に出ることができます", "translation": "Bisa ikut rapat"}
+      {
+        "japanese": "日本語話すことができます",
+        "translation": "Saya bisa berbicara bahasa Jepang"
+      },
+      {
+        "japanese": "会議に出ることができます",
+        "translation": "Bisa ikut rapat"
+      }
     ],
-    "tags": ["kemampuan", "dasar"]
+    "tags": [
+      "kemampuan",
+      "dasar"
+    ]
   },
   {
     "id": "bp-010",
@@ -114,10 +205,19 @@
     "function": "Menyatakan perubahan keadaan secara bertahap",
     "formation": "Verba positif/negatif + you ni naru",
     "examples": [
-      {"japanese": "日本語ができるようになりました", "translation": "Saya menjadi bisa bahasa Jepang"},
-      {"japanese": "毎日運動するようになりました", "translation": "Saya jadi rutin olahraga setiap hari"}
+      {
+        "japanese": "日本語ができるようになりました",
+        "translation": "Saya menjadi bisa bahasa Jepang"
+      },
+      {
+        "japanese": "毎日運動するようになりました",
+        "translation": "Saya jadi rutin olahraga setiap hari"
+      }
     ],
-    "tags": ["perubahan", "dasar"]
+    "tags": [
+      "perubahan",
+      "dasar"
+    ]
   },
   {
     "id": "bp-011",
@@ -126,10 +226,19 @@
     "function": "Menyatakan perubahan kebiasaan atau kemampuan",
     "formation": "Verba + you ni naru / nai + you ni naru",
     "examples": [
-      {"japanese": "早起きできるようになりました", "translation": "Saya jadi bisa bangun pagi"},
-      {"japanese": "タバコを飲まなくようになりました", "translation": "Saya berhenti merokok"}
+      {
+        "japanese": "早起きできるようになりました",
+        "translation": "Saya jadi bisa bangun pagi"
+      },
+      {
+        "japanese": "タバコを飲まなくようになりました",
+        "translation": "Saya berhenti merokok"
+      }
     ],
-    "tags": ["kebiasaan", "perubahan"]
+    "tags": [
+      "kebiasaan",
+      "perubahan"
+    ]
   },
   {
     "id": "bp-012",
@@ -138,10 +247,19 @@
     "function": "Menyatakan waktu sebelum suatu aksi",
     "formation": "Kata kerja kamuu form + mae ni",
     "examples": [
-      {"japanese": "ご飯を食べる前に手を洗います", "translation": "Cuci tangan sebelum makan"},
-      {"japanese": "寝る前に本を読む", "translation": "Membaca buku sebelum tidur"}
+      {
+        "japanese": "ご飯を食べる前に手を洗います",
+        "translation": "Cuci tangan sebelum makan"
+      },
+      {
+        "japanese": "寝る前に本を読む",
+        "translation": "Membaca buku sebelum tidur"
+      }
     ],
-    "tags": ["waktu", "dasar"]
+    "tags": [
+      "waktu",
+      "dasar"
+    ]
   },
   {
     "id": "bp-013",
@@ -150,10 +268,19 @@
     "function": "Menyatakan urutan waktu setelah aksi",
     "formation": "Kata kerja kamuu form + ato de",
     "examples": [
-      {"japanese": "食事をしたあとで映画を見ます", "translation": "Nonton film setelah makan"},
-      {"japanese": "帰ったあとで連絡します", "translation": "Akan menghubungi setelah pulang"}
+      {
+        "japanese": "食事をしたあとで映画を見ます",
+        "translation": "Nonton film setelah makan"
+      },
+      {
+        "japanese": "帰ったあとで連絡します",
+        "translation": "Akan menghubungi setelah pulang"
+      }
     ],
-    "tags": ["waktu", "dasar"]
+    "tags": [
+      "waktu",
+      "dasar"
+    ]
   },
   {
     "id": "bp-014",
@@ -162,10 +289,19 @@
     "function": "Melakukan dua aksi secara bersamaan",
     "formation": "Verba -nai + nagara",
     "examples": [
-      {"japanese": "音楽を聞きながら勉強する", "translation": "Belajar sambil mendengarkan musik"},
-      {"japanese": "歩きながら喋らないで", "translation": "Jangan bicara sambil jalan"}
+      {
+        "japanese": "音楽を聞きながら勉強する",
+        "translation": "Belajar sambil mendengarkan musik"
+      },
+      {
+        "japanese": "歩きながら喋らないで",
+        "translation": "Jangan bicara sambil jalan"
+      }
     ],
-    "tags": ["serentak", "dasar"]
+    "tags": [
+      "serentak",
+      "dasar"
+    ]
   },
   {
     "id": "bp-015",
@@ -174,10 +310,19 @@
     "function": "Menyatakan urutan aksi yang jelas",
     "formation": "Verba -te + kara",
     "examples": [
-      {"japanese": "買ってから返します", "translation": "Akan mengembalikan setelah membeli"},
-      {"japanese": "確認してから送りましょう", "translation": "Ayo kirim setelah dikonfirmasi"}
+      {
+        "japanese": "買ってから返します",
+        "translation": "Akan mengembalikan setelah membeli"
+      },
+      {
+        "japanese": "確認してから送りましょう",
+        "translation": "Ayo kirim setelah dikonfirmasi"
+      }
     ],
-    "tags": ["urutan", "waktu"]
+    "tags": [
+      "urutan",
+      "waktu"
+    ]
   },
   {
     "id": "bp-016",
@@ -186,10 +331,19 @@
     "function": "Menyatakan kontras atau kekecewaan",
     "formation": "Semua bentuk + no ni",
     "examples": [
-      {"japanese": "勉強したのに試験に落ちた", "translation": "Padahal sudah belajar tapi gagal ujian"},
-      {"japanese": "約束したのに来なかった", "translation": "Padahal sudah janji tapi tidak datang"}
+      {
+        "japanese": "勉強したのに試験に落ちた",
+        "translation": "Padahal sudah belajar tapi gagal ujian"
+      },
+      {
+        "japanese": "約束したのに来なかった",
+        "translation": "Padahal sudah janji tapi tidak datang"
+      }
     ],
-    "tags": ["kontras", "kekecewaan"]
+    "tags": [
+      "kontras",
+      "kekecewaan"
+    ]
   },
   {
     "id": "bp-017",
@@ -198,10 +352,20 @@
     "function": "Menyatakan tujuan atau alasan",
     "formation": "Verba kamuu + tame ni / Adjektiva + tame ni",
     "examples": [
-      {"japanese": "仕事のために日本へ来た", "translation": "Datang ke Jepang untuk bekerja"},
-      {"japanese": "病気のせいで休んだ", "reading": "やまいのせいでやすんだ", "translation": "Istirahat karena sakit"}
+      {
+        "japanese": "仕事のために日本へ来た",
+        "translation": "Datang ke Jepang untuk bekerja"
+      },
+      {
+        "japanese": "病気のせいで休んだ",
+        "reading": "やまいのせいでやすんだ",
+        "translation": "Istirahat karena sakit"
+      }
     ],
-    "tags": ["tujuan", "alasan"]
+    "tags": [
+      "tujuan",
+      "alasan"
+    ]
   },
   {
     "id": "bp-018",
@@ -210,10 +374,19 @@
     "function": "Menyatakan tujuan dengan usaha",
     "formation": "Verba + you ni suru / naru",
     "examples": [
-      {"japanese": "元気になれるように応援します", "translation": "Akan mendukung agar kamu sehat"},
-      {"japanese": "忘れられないようにメモした", "translation": "Membuat catatan agar tidak lupa"}
+      {
+        "japanese": "元気になれるように応援します",
+        "translation": "Akan mendukung agar kamu sehat"
+      },
+      {
+        "japanese": "忘れられないようにメモした",
+        "translation": "Membuat catatan agar tidak lupa"
+      }
     ],
-    "tags": ["tujuan", "usaha"]
+    "tags": [
+      "tujuan",
+      "usaha"
+    ]
   },
   {
     "id": "bp-019",
@@ -222,10 +395,19 @@
     "function": "Menyatakan informasi yang didengar dari orang lain",
     "formation": "Verba -sou da / Adjektiva -sou da",
     "examples": [
-      {"japanese": "明日雨が降るそうです", "translation": "Katanya besok akan hujan"},
-      {"japanese": "その映画は面白いそうです", "translation": "Katanya film itu menarik"}
+      {
+        "japanese": "明日雨が降るそうです",
+        "translation": "Katanya besok akan hujan"
+      },
+      {
+        "japanese": "その映画は面白いそうです",
+        "translation": "Katanya film itu menarik"
+      }
     ],
-    "tags": ["informasi", "katanya"]
+    "tags": [
+      "informasi",
+      "katanya"
+    ]
   },
   {
     "id": "bp-020",
@@ -234,10 +416,20 @@
     "function": "Menyatakan keyakinan atau ekspektasi kuat",
     "formation": "Semua bentuk + hazu da",
     "examples": [
-      {"japanese": "彼は来るはずです", "translation": "Dia pasti akan datang"},
-      {"japanese": "正しいはずです", "reading": "ただしいはずです", "translation": "Sepastinya benar"}
+      {
+        "japanese": "彼は来るはずです",
+        "translation": "Dia pasti akan datang"
+      },
+      {
+        "japanese": "正しいはずです",
+        "reading": "ただしいはずです",
+        "translation": "Sepastinya benar"
+      }
     ],
-    "tags": ["keyakinan", "ekspektasi"]
+    "tags": [
+      "keyakinan",
+      "ekspektasi"
+    ]
   },
   {
     "id": "bp-021",
@@ -246,10 +438,19 @@
     "function": "Menyatakan dugaan berdasarkan tanda atau informasi",
     "formation": "Verba stem + rashii / Nomina + rashii",
     "examples": [
-      {"japanese": "雨らしいです", "translation": "Sepertinya hujan"},
-      {"japanese": "田中さんらしい答えだ", "translation": "Jawaban yang khas Tanaka"}
+      {
+        "japanese": "雨らしいです",
+        "translation": "Sepertinya hujan"
+      },
+      {
+        "japanese": "田中さんらしい答えだ",
+        "translation": "Jawaban yang khas Tanaka"
+      }
     ],
-    "tags": ["dugaan", "tanda"]
+    "tags": [
+      "dugaan",
+      "tanda"
+    ]
   },
   {
     "id": "bp-022",
@@ -258,10 +459,19 @@
     "function": "Menyatakan pengalaman atau kejadian yang pernah terjadi",
     "formation": "Verba past + koto ga aru / nai koto ga aru",
     "examples": [
-      {"japanese": "富士山に登ったことがある", "translation": "Pernah mendaki Gunung Fuji"},
-      {"japanese": "日本に行ったことがありません", "translation": "Belum pernah ke Jepang"}
+      {
+        "japanese": "富士山に登ったことがある",
+        "translation": "Pernah mendaki Gunung Fuji"
+      },
+      {
+        "japanese": "日本に行ったことがありません",
+        "translation": "Belum pernah ke Jepang"
+      }
     ],
-    "tags": ["pengalaman", "dasar"]
+    "tags": [
+      "pengalaman",
+      "dasar"
+    ]
   },
   {
     "id": "bp-023",
@@ -270,10 +480,19 @@
     "function": "Menyatakan keputusan yang diambil secara formal",
     "formation": "Verba + koto ni naru",
     "examples": [
-      {"japanese": "来月転勤することになりました", "translation": "Bulan depan saya akan dipindahtugaskan"},
-      {"japanese": "やめることにしました", "translation": "Saya memutuskan untuk berhenti"}
+      {
+        "japanese": "来月転勤することになりました",
+        "translation": "Bulan depan saya akan dipindahtugaskan"
+      },
+      {
+        "japanese": "やめることにしました",
+        "translation": "Saya memutuskan untuk berhenti"
+      }
     ],
-    "tags": ["keputusan", "formal"]
+    "tags": [
+      "keputusan",
+      "formal"
+    ]
   },
   {
     "id": "bp-024",
@@ -282,10 +501,19 @@
     "function": "Ketentuan atau keputusan yang ditetapkan",
     "formation": "Verba + koto ni naru",
     "examples": [
-      {"japanese": "来週会議があることになりました", "translation": "Rapat minggu depan sudah ditetapkan"},
-      {"japanese": "早めに上がることにしました", "translation": "Saya putuskan pulang cepat"}
+      {
+        "japanese": "来週会議があることになりました",
+        "translation": "Rapat minggu depan sudah ditetapkan"
+      },
+      {
+        "japanese": "早めに上がることにしました",
+        "translation": "Saya putuskan pulang cepat"
+      }
     ],
-    "tags": ["ketentuan", "keputusan"]
+    "tags": [
+      "ketentuan",
+      "keputusan"
+    ]
   },
   {
     "id": "bp-025",
@@ -294,10 +522,20 @@
     "function": "Aksi sedang berlangsung atau keadaan yang berlangsung",
     "formation": "Verba -te + iru",
     "examples": [
-      {"japanese": "待っている", "reading": "まっている", "translation": "Sedang menunggu"},
-      {"japanese": "分かっている", "translation": "Sudah mengerti"}
+      {
+        "japanese": "待っている",
+        "reading": "まっている",
+        "translation": "Sedang menunggu"
+      },
+      {
+        "japanese": "分かっている",
+        "translation": "Sudah mengerti"
+      }
     ],
-    "tags": ["keadaan", "lanjutan"]
+    "tags": [
+      "keadaan",
+      "lanjutan"
+    ]
   },
   {
     "id": "bp-026",
@@ -306,10 +544,19 @@
     "function": "Memberikan saran atau menunjukkan cara yang cukup",
     "formation": "Bentuk -ba + ii",
     "examples": [
-      {"japanese": "もっと練習すればいい", "translation": "Cukup dengan berlatih lebih banyak"},
-      {"japanese": "ゆっくり食べればいい", "translation": "Bagus kalau makan pelan-pelan"}
+      {
+        "japanese": "もっと練習すればいい",
+        "translation": "Cukup dengan berlatih lebih banyak"
+      },
+      {
+        "japanese": "ゆっくり食べればいい",
+        "translation": "Bagus kalau makan pelan-pelan"
+      }
     ],
-    "tags": ["saran", "cukup"]
+    "tags": [
+      "saran",
+      "cukup"
+    ]
   },
   {
     "id": "bp-027",
@@ -318,10 +565,19 @@
     "function": "Menyatakan hasil aksi yang sudah dilakukan untuk tujuan tertentu",
     "formation": "Verba transitive -te + aru",
     "examples": [
-      {"japanese": "扉があけてある", "translation": "Pintu sudah dibuka (disiapkan)"},
-      {"japanese": "準備がしてある", "translation": "Persiapan sudah disiapkan"}
+      {
+        "japanese": "扉があけてある",
+        "translation": "Pintu sudah dibuka (disiapkan)"
+      },
+      {
+        "japanese": "準備がしてある",
+        "translation": "Persiapan sudah disiapkan"
+      }
     ],
-    "tags": ["hasil", "persiapan"]
+    "tags": [
+      "hasil",
+      "persiapan"
+    ]
   },
   {
     "id": "bp-028",
@@ -330,10 +586,19 @@
     "function": "Menyatakan ketidakmungkinan berdasarkan situasi atau norma",
     "formation": "Verba kamuu + wake ni iknai",
     "examples": [
-      {"japanese": "約束を破るわけにはいかない", "translation": "Tidak bisa melanggar janji"},
-      {"japanese": "無視するわけにはいかない", "translation": "Tidak mungkin mengabaikannya"}
+      {
+        "japanese": "約束を破るわけにはいかない",
+        "translation": "Tidak bisa melanggar janji"
+      },
+      {
+        "japanese": "無視するわけにはいかない",
+        "translation": "Tidak mungkin mengabaikannya"
+      }
     ],
-    "tags": ["kemungkinan", " Norma"]
+    "tags": [
+      "kemungkinan",
+      " Norma"
+    ]
   },
   {
     "id": "bp-029",
@@ -342,10 +607,20 @@
     "function": "Menyatakan nasihat, peringatan, atau hal yang umum dilakukan",
     "formation": "Verba kamuu + mono da",
     "examples": [
-      {"japanese": "親は子をサポートするものだ", "translation": "Orang tua seharusnya mendukung anak"},
-      {"japanese": "若い時に勉強すべきだ", "reading": "わかいときにべんきょうすべきだ", "translation": "Seharusnya belajar saat muda"}
+      {
+        "japanese": "親は子をサポートするものだ",
+        "translation": "Orang tua seharusnya mendukung anak"
+      },
+      {
+        "japanese": "若い時に勉強すべきだ",
+        "reading": "わかいときにべんきょうすべきだ",
+        "translation": "Seharusnya belajar saat muda"
+      }
     ],
-    "tags": ["nasihat", "kebiasaan"]
+    "tags": [
+      "nasihat",
+      "kebiasaan"
+    ]
   },
   {
     "id": "bp-030",
@@ -354,9 +629,18 @@
     "function": "Melakukan sesuatu sebelumnya untuk persiapan",
     "formation": "Verba -te + oku",
     "examples": [
-      {"japanese": "事前に調べておきます", "translation": "Akan mencari tahu sebelumnya"},
-      {"japanese": "メモを取っておいてください", "translation": "Mohon buat catatan sebelumnya"}
+      {
+        "japanese": "事前に調べておきます",
+        "translation": "Akan mencari tahu sebelumnya"
+      },
+      {
+        "japanese": "メモを取っておいてください",
+        "translation": "Mohon buat catatan sebelumnya"
+      }
     ],
-    "tags": ["persiapan", "dasar"]
+    "tags": [
+      "persiapan",
+      "dasar"
+    ]
   }
 ]
