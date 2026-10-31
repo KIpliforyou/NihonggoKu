@@ -34,14 +34,14 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <div className="min-h-screen bg-background dark:bg-dark-background">
       <ContentSync />
-      <div className="flex h-screen overflow-hidden">
+      <div className="flex min-h-screen">
         {/* Desktop Sidebar */}
         {!isMobile && (
           <Sidebar isDark={isDark} onToggleTheme={toggleTheme} />
         )}
 
         {/* Main Content */}
-        <div className="flex-1 flex flex-col overflow-hidden">
+        <div className="flex-1 flex flex-col">
           <Header isDark={isDark} onToggleTheme={toggleTheme} />
           <main className="flex-1 overflow-y-auto p-4 md:p-6">
             {children}
@@ -49,10 +49,8 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         </div>
       </div>
 
-      {/* Mobile Bottom Navigation */}
-      {isMobile && (
-        <MobileNav />
-      )}
+      {/* Mobile Navigation - Hamburger Menu */}
+      {isMobile && <MobileNav isDark={isDark} onToggleTheme={toggleTheme} />}
     </div>
   );
 }
