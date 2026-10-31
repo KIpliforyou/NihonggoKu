@@ -1,0 +1,383 @@
+{
+  "communities": {
+    "0": [
+      "app_api_delete_route",
+      "app_api_delete_route_post",
+      "app_bunpou_page_bunpoupage",
+      "app_flashcards_bunpou_page_bunpouflashcardspage",
+      "app_flashcards_kotoba_page_kotobaflashcardspage",
+      "app_flashcards_page_flashcardspage",
+      "app_import_page",
+      "app_import_page_kotobaimportpage",
+      "app_kotoba_page_kotobapage",
+      "app_notes_page",
+      "app_notes_page_notespage",
+      "app_page_dashboard",
+      "app_progress_page_progresspage",
+      "app_settings_page",
+      "app_settings_page_settingspage",
+      "components_contentsync",
+      "components_contentsync_contentsync",
+      "components_contentsync_contentsync_synccontent",
+      "content_bunpou_data",
+      "content_kotoba_data",
+      "lib_contentmanager",
+      "lib_contentmanager_applyoverride",
+      "lib_contentmanager_deletewithrecord",
+      "lib_contentmanager_exportdata",
+      "lib_contentmanager_exportusercontent",
+      "lib_contentmanager_getcontentversion",
+      "lib_contentmanager_mergecontent",
+      "lib_contentmanager_mergeresult",
+      "lib_contentmanager_setcontentversion",
+      "lib_contentmanager_stores",
+      "lib_contentmanager_validatebunpou",
+      "lib_contentmanager_validatecontentpack",
+      "lib_contentmanager_validatekotoba",
+      "lib_contentmanager_validationresult",
+      "lib_db",
+      "lib_db_clearstore",
+      "lib_db_closedb",
+      "lib_db_deleteitem",
+      "lib_db_get",
+      "lib_db_getall",
+      "lib_db_opendb",
+      "lib_db_put",
+      "lib_db_searchbyindex",
+      "lib_db_stores"
+    ],
+    "1": [
+      "app_api_import_kotoba_route",
+      "app_api_import_kotoba_route_post",
+      "app_bunpou_page",
+      "app_flashcards_bunpou_page",
+      "app_flashcards_kotoba_page",
+      "app_flashcards_page",
+      "app_globals",
+      "app_kotoba_page",
+      "app_layout",
+      "app_layout_inter",
+      "app_layout_metadata",
+      "app_layout_rootlayout",
+      "app_page",
+      "app_progress_page",
+      "components_globalsearch",
+      "components_globalsearch_globalsearch",
+      "components_globalsearch_globalsearchprops",
+      "components_header",
+      "components_header_header",
+      "components_layout",
+      "components_layout_layout",
+      "components_mobilenav",
+      "components_mobilenav_mobilenav",
+      "components_mobilenav_morenav",
+      "components_mobilenav_primarynav",
+      "components_quickaddmodal",
+      "components_quickaddmodal_quickaddmodal",
+      "components_quickaddmodal_quickaddmodalprops",
+      "components_sidebar",
+      "components_sidebar_navitems",
+      "components_sidebar_sidebar",
+      "ref_lucide_react",
+      "ref_next",
+      "ref_react",
+      "types_index_bunpou",
+      "types_index_kotoba",
+      "types_index_note"
+    ],
+    "2": [
+      "package",
+      "package_dependencies",
+      "package_dependencies_idb",
+      "package_dependencies_lucide_react",
+      "package_dependencies_next",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_devdependencies",
+      "package_devdependencies_autoprefixer",
+      "package_devdependencies_eslint",
+      "package_devdependencies_eslint_config_next",
+      "package_devdependencies_postcss",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_types_node",
+      "package_devdependencies_types_react",
+      "package_devdependencies_types_react_dom",
+      "package_devdependencies_typescript",
+      "package_devdependencies_vercel",
+      "package_name",
+      "package_private",
+      "package_version",
+      "ref_autoprefixer",
+      "ref_eslint",
+      "ref_eslint_config_next",
+      "ref_idb",
+      "ref_postcss",
+      "ref_react_dom",
+      "ref_tailwindcss",
+      "ref_types_node",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_typescript",
+      "ref_vercel"
+    ],
+    "3": [
+      "ref_fs",
+      "ref_path",
+      "scripts_content_sync",
+      "scripts_content_sync_args",
+      "scripts_content_sync_bundled_dir",
+      "scripts_content_sync_cmdexport",
+      "scripts_content_sync_cmdimport",
+      "scripts_content_sync_cmdvalidate",
+      "scripts_content_sync_fs",
+      "scripts_content_sync_path",
+      "scripts_content_sync_validatebunpou",
+      "scripts_content_sync_validatecontentpack",
+      "scripts_content_sync_validatekotoba",
+      "scripts_debug_content_sync",
+      "scripts_debug_content_sync_bunpoupath",
+      "scripts_debug_content_sync_contentdir",
+      "scripts_debug_content_sync_fs",
+      "scripts_debug_content_sync_kotobapath",
+      "scripts_debug_content_sync_manifestpath",
+      "scripts_debug_content_sync_path"
+    ],
+    "4": [
+      "tsconfig",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_allowjs",
+      "tsconfig_compileroptions_esmoduleinterop",
+      "tsconfig_compileroptions_incremental",
+      "tsconfig_compileroptions_isolatedmodules",
+      "tsconfig_compileroptions_jsx",
+      "tsconfig_compileroptions_lib",
+      "tsconfig_compileroptions_module",
+      "tsconfig_compileroptions_moduleresolution",
+      "tsconfig_compileroptions_noemit",
+      "tsconfig_compileroptions_paths",
+      "tsconfig_compileroptions_plugins",
+      "tsconfig_compileroptions_resolvejsonmodule",
+      "tsconfig_compileroptions_skiplibcheck",
+      "tsconfig_compileroptions_strict",
+      "tsconfig_compileroptions_target",
+      "tsconfig_exclude",
+      "tsconfig_include"
+    ],
+    "5": [
+      "types_index",
+      "types_index_appsettings",
+      "types_index_bunpouexample",
+      "types_index_bunpouflashcardstate",
+      "types_index_bunpouinput",
+      "types_index_contentexport",
+      "types_index_contentmanifest",
+      "types_index_contentpack",
+      "types_index_deletionrecord",
+      "types_index_flashcardstate",
+      "types_index_kotobaexample",
+      "types_index_kotobaflashcardstate",
+      "types_index_kotobainput",
+      "types_index_learningsession",
+      "types_index_mergeresult",
+      "types_index_progress",
+      "types_index_validationreport"
+    ],
+    "6": [
+      "components_bunpoumodal",
+      "components_bunpoumodal_bunpoumodal",
+      "components_bunpoumodal_bunpoumodalprops",
+      "components_kotobamodal",
+      "components_kotobamodal_kotobamodal",
+      "components_kotobamodal_kotobamodalprops",
+      "lib_db_add",
+      "lib_db_update",
+      "lib_utils",
+      "lib_utils_extractkanji",
+      "lib_utils_extractreading",
+      "lib_utils_formatdate",
+      "lib_utils_formatdatetime",
+      "lib_utils_generateid",
+      "lib_utils_getrelativetime"
+    ],
+    "7": [
+      "json",
+      "pathlib",
+      "re",
+      "scripts_parse_h_files",
+      "scripts_parse_h_files_deduplicate",
+      "scripts_parse_h_files_parse_h4",
+      "scripts_parse_h_files_parse_h4_grammar",
+      "scripts_parse_h_files_parse_table_file",
+      "scripts_parse_h_files_rationale_116",
+      "scripts_parse_h_files_rationale_12",
+      "scripts_parse_h_files_rationale_2",
+      "scripts_parse_h_files_rationale_45"
+    ],
+    "8": [
+      "content_manifest",
+      "content_manifest_bunpoucount",
+      "content_manifest_contentversion",
+      "content_manifest_kotobacount",
+      "content_manifest_lastupdated",
+      "content_manifest_manifestversion",
+      "content_manifest_packdescription",
+      "content_manifest_packname",
+      "content_manifest_schemaversion"
+    ],
+    "9": [
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_content_export",
+      "package_scripts_content_import",
+      "package_scripts_content_validate",
+      "package_scripts_dev",
+      "package_scripts_lint",
+      "package_scripts_start"
+    ],
+    "10": [
+      "next",
+      "next_config",
+      "next_config_nextconfig"
+    ],
+    "11": [
+      "next_env_d",
+      "next_env_d_rationale_4"
+    ],
+    "12": [
+      "tailwind_config",
+      "tailwindcss"
+    ],
+    "13": [
+      "postcss_config"
+    ]
+  },
+  "cohesion": {
+    "0": 0.09725158562367865,
+    "1": 0.12762762762762764,
+    "2": 0.08333333333333333,
+    "3": 0.12631578947368421,
+    "4": 0.10526315789473684,
+    "5": 0.1323529411764706,
+    "6": 0.23809523809523808,
+    "7": 0.21212121212121213,
+    "8": 0.2222222222222222,
+    "9": 0.25,
+    "10": 0.6666666666666666,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0
+  },
+  "gods": [
+    {
+      "id": "lib_db_getall",
+      "label": "getAll()",
+      "degree": 29
+    },
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 20
+    },
+    {
+      "id": "ref_lucide_react",
+      "label": "lucide-react",
+      "degree": 18
+    },
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 16
+    },
+    {
+      "id": "lib_db_add",
+      "label": "add()",
+      "degree": 13
+    },
+    {
+      "id": "ref_next",
+      "label": "next",
+      "degree": 13
+    },
+    {
+      "id": "types_index_kotoba",
+      "label": "Kotoba",
+      "degree": 13
+    },
+    {
+      "id": "lib_contentmanager_mergecontent",
+      "label": "mergeContent()",
+      "degree": 12
+    },
+    {
+      "id": "lib_db_opendb",
+      "label": "openDB()",
+      "degree": 11
+    },
+    {
+      "id": "types_index_bunpou",
+      "label": "Bunpou",
+      "degree": 11
+    }
+  ],
+  "surprises": [
+    {
+      "source": "BunpouModalProps",
+      "target": "Bunpou",
+      "source_files": [
+        "components/BunpouModal.tsx",
+        "types/index.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `BunpouModalProps` unexpectedly reaches hub `Bunpou`"
+    },
+    {
+      "source": "KotobaModalProps",
+      "target": "Kotoba",
+      "source_files": [
+        "components/KotobaModal.tsx",
+        "types/index.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `KotobaModalProps` unexpectedly reaches hub `Kotoba`"
+    },
+    {
+      "source": "POST()",
+      "target": "deleteItem()",
+      "source_files": [
+        "app/api/delete/route.ts",
+        "lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; peripheral node `POST()` unexpectedly reaches hub `deleteItem()`"
+    },
+    {
+      "source": "BunpouPage()",
+      "target": "getAll()",
+      "source_files": [
+        "app/bunpou/page.tsx",
+        "lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; peripheral node `BunpouPage()` unexpectedly reaches hub `getAll()`"
+    },
+    {
+      "source": "BunpouFlashcardsPage()",
+      "target": "getAll()",
+      "source_files": [
+        "app/flashcards/bunpou/page.tsx",
+        "lib/db.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories; peripheral node `BunpouFlashcardsPage()` unexpectedly reaches hub `getAll()`"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
