@@ -98,6 +98,9 @@ export default function KotobaFlashcardsPage() {
 
   if (!currentItem) return null;
 
+  // Front card: Kanji only (or base word if no separate kanji)
+  const frontKanji = currentItem.kanji || currentItem.word;
+
   return (
     <div className="max-w-2xl mx-auto">
       {/* Header */}
@@ -120,37 +123,59 @@ export default function KotobaFlashcardsPage() {
 
       {/* Card */}
       <div
-        className="relative bg-surface dark:bg-dark-surface rounded-2xl border border-border dark:border-dark-border p-8 min-h-[280px] flex flex-col items-center justify-center cursor-pointer transition-transform duration-300"
+        className="relative bg-surface dark:bg-dark-surface rounded-2xl border border-border dark:border-dark-border p-8 min-h-[300px] flex flex-col items-center justify-center cursor-pointer transition-transform duration-300 shadow-sm"
         onClick={() => setFlipped(f => !f)}
       >
-        <div className="text-center">
+        <div className="text-center w-full">
           {!flipped ? (
             <>
-              <p className="text-3xl font-bold text-primary-text dark:text-dark-primary-text mb-2">
-                {currentItem.word}
+              {/* DEPAN: HANYA KANJI, TANPA FURIGANA */}
+              <p className="text-5xl font-bold text-primary-text dark:text-dark-primary-text mb-4 font-jp tracking-wider">
+                {frontKanji}
               </p>
-              {currentItem.reading && (
-                <p className="text-lg text-secondary-text dark:text-dark-secondary-text">
-                  {currentItem.reading}
-                </p>
-              )}
-              <p className="text-sm text-muted-foreground mt-4">Klik untuk melihat arti</p>
+              <p className="text-sm text-muted-foreground mt-4">
+                Klik kartu untuk melihat furigana & arti
+              </p>
             </>
           ) : (
             <>
-              <p className="text-xl text-primary-text dark:text-dark-primary-text mb-3">
-                {currentItem.meaning || '—'}
-              </p>
+              {/* BELAKANG: FURIGANA & ARTI LENGKAP */}
+              <div className="mb-4">
+                <p className="text-2xl font-bold text-primary-text dark:text-dark-primary-text font-jp">
+                  {frontKanji}
+                </p>
+                {currentItem.reading && (
+                  <p className="text-3xl font-semibold text-accent dark:text-dark-accent mt-2 font-jp">
+                    {currentItem.reading}
+                  </p>
+                )}
+              </div>
+
+              <div className="my-4 pt-4 border-t border-border dark:border-dark-border">
+                <p className="text-xl font-medium text-primary-text dark:text-dark-primary-text">
+                  {currentItem.meaning || '—'}
+                </p>
+                {currentItem.partOfSpeech && (
+                  <p className="text-xs text-secondary-text dark:text-dark-secondary-text italic mt-1">
+                    {currentItem.partOfSpeech}
+                  </p>
+                )}
+              </div>
+
               {currentItem.examples && currentItem.examples.length > 0 && (
-                <div className="mt-4 pt-4 border-t border-border dark:border-dark-border w-full">
+                <div className="mt-3 pt-3 border-t border-border/50 dark:border-dark-border/50 w-full text-left bg-soft-accent/30 dark:bg-dark-border/30 p-3 rounded-lg">
+                  <p className="text-xs font-semibold text-secondary-text dark:text-dark-secondary-text uppercase mb-1">Contoh:</p>
                   {currentItem.examples.map((ex, i) => (
-                    <p key={i} className="text-sm text-secondary-text dark:text-dark-secondary-text italic">
-                      {ex.japanese}
-                    </p>
+                    <div key={i} className="text-sm">
+                      <p className="font-jp text-primary-text dark:text-dark-primary-text">{ex.japanese}</p>
+                      {ex.translation && (
+                        <p className="text-secondary-text dark:text-dark-secondary-text text-xs mt-0.5">{ex.translation}</p>
+                      )}
+                    </div>
                   ))}
                 </div>
               )}
-              <p className="text-sm text-muted-foreground mt-4">Klik untuk kembali</p>
+              <p className="text-xs text-muted-foreground mt-4">Klik untuk membalik kartu</p>
             </>
           )}
         </div>

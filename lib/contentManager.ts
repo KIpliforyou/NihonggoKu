@@ -122,6 +122,21 @@ export async function mergeContent(
   const bundledBunpou = bundledContent.bunpou || [];
   const bundledKotoba = bundledContent.kotoba || [];
 
+  // Clean up bundled items that are no longer in the bundled payload (e.g. H1 removal or bunpou replace)
+  const bundledBunpouIds = new Set(bundledBunpou.map(b => b.id));
+  for (const eb of existingBunpou) {
+    if (eb.source === 'bundled' && !bundledBunpouIds.has(eb.id)) {
+      if (!dryRun) await deleteItem(STORES.BUNPOU, eb.id);
+    }
+  }
+
+  const bundledKotobaIds = new Set(bundledKotoba.map(k => k.id));
+  for (const ek of existingKotoba) {
+    if (ek.source === 'bundled' && !bundledKotobaIds.has(ek.id)) {
+      if (!dryRun) await deleteItem(STORES.KOTOBA, ek.id);
+    }
+  }
+
   for (const item of bundledBunpou) {
     const v = validateBunpou(item, 0);
     if (!v.valid) { result.skippedInvalid++; result.bunpouErrors.push(...v.errors); continue; }
