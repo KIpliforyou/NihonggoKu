@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1,
   "schemaVersion": "1.0.0",
-  "contentVersion": "1.0.2",
-  "lastUpdated": "2026-11-02T00:15:00.000Z",
+  "contentVersion": "1.0.3",
+  "lastUpdated": "2026-11-02T00:30:00.000Z",
   "bunpouCount": 91,
-  "kotobaCount": 631,
-  "packName": "NihonggoKu JLPT Mock Tests (H1-H5)",
-  "packDescription": "91 pola tata bahasa N2 + kosakata Mock Test H1-H5 (H1: 75, H2: 39, H3: 36, H4: 32, H5: 47)"
+  "kotobaCount": 154,
+  "packName": "NihonggoKu JLPT Mock Tests (H2-H5)",
+  "packDescription": "91 pola tata bahasa N2 + kosakata Mock Test H2-H5 (H2: 39, H3: 36, H4: 32, H5: 47)"
 }
