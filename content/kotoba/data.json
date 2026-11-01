@@ -1,5 +1,1655 @@
 [
   {
+    "id": "mock-mock-h1-001",
+    "word": "学校（がっこう）",
+    "kanji": "学",
+    "reading": "がく",
+    "meaning": "sekolah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "学校（がっこう）",
+        "translation": "sekolah"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-002",
+    "word": "生活（せいかつ）",
+    "kanji": "生",
+    "reading": "せい / しょう",
+    "meaning": "kehidupan sehari‑hari",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "生活（せいかつ）",
+        "translation": "kehidupan sehari‑hari"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-003",
+    "word": "予想（よそう）",
+    "kanji": "予",
+    "reading": "よ",
+    "meaning": "prediksi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "予想（よそう）",
+        "translation": "prediksi"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-004",
+    "word": "想像（そうぞう）",
+    "kanji": "想",
+    "reading": "そう",
+    "meaning": "bayangan, imajinasi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "想像（そうぞう）",
+        "translation": "bayangan, imajinasi"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-005",
+    "word": "働く（はたらく）",
+    "kanji": "働",
+    "reading": "はたら",
+    "meaning": "bekerja",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "働く（はたらく）",
+        "translation": "bekerja"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-006",
+    "word": "心配（しんぱい）",
+    "kanji": "心",
+    "reading": "しん",
+    "meaning": "kekhawatiran",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "心配（しんぱい）",
+        "translation": "kekhawatiran"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-007",
+    "word": "期間（きかん）",
+    "kanji": "期",
+    "reading": "き",
+    "meaning": "jangka waktu",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "期間（きかん）",
+        "translation": "jangka waktu"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-008",
+    "word": "騒音（そうおん）",
+    "kanji": "騒",
+    "reading": "そう",
+    "meaning": "kebisingan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "騒音（そうおん）",
+        "translation": "kebisingan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-009",
+    "word": "音楽（おんがく）",
+    "kanji": "音",
+    "reading": "おん / おと",
+    "meaning": "musik",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "音楽（おんがく）",
+        "translation": "musik"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-010",
+    "word": "読む（よむ）",
+    "kanji": "読",
+    "reading": "どく / よむ",
+    "meaning": "membaca",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "読む（よむ）",
+        "translation": "membaca"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-011",
+    "word": "書く（かく）",
+    "kanji": "書",
+    "reading": "しょ / かく",
+    "meaning": "menulis",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "書く（かく）",
+        "translation": "menulis"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-012",
+    "word": "料金（りょうきん）",
+    "kanji": "料",
+    "reading": "りょう",
+    "meaning": "tarif",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "料金（りょうきん）",
+        "translation": "tarif"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-013",
+    "word": "価値（かち）",
+    "kanji": "価",
+    "reading": "か",
+    "meaning": "nilai",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "価値（かち）",
+        "translation": "nilai"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-014",
+    "word": "券売機（けんばいき）",
+    "kanji": "券",
+    "reading": "けん",
+    "meaning": "mesin penjual tiket",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "券売機（けんばいき）",
+        "translation": "mesin penjual tiket"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-015",
+    "word": "形状（けいじょう）",
+    "kanji": "形",
+    "reading": "けい / かたち",
+    "meaning": "bentuk, rupa",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "形状（けいじょう）",
+        "translation": "bentuk, rupa"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-016",
+    "word": "国家（こっか）",
+    "kanji": "国",
+    "reading": "こく",
+    "meaning": "negara",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "国家（こっか）",
+        "translation": "negara"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-017",
+    "word": "島嶼（とうしょ）",
+    "kanji": "島",
+    "reading": "しま",
+    "meaning": "kepulauan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "島嶼（とうしょ）",
+        "translation": "kepulauan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-018",
+    "word": "州政府（しゅうせいふ）",
+    "kanji": "州",
+    "reading": "しゅう",
+    "meaning": "pemerintah provinsi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "州政府（しゅうせいふ）",
+        "translation": "pemerintah provinsi"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-019",
+    "word": "多数（たすう）",
+    "kanji": "多",
+    "reading": "た",
+    "meaning": "banyak",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "多数（たすう）",
+        "translation": "banyak"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-020",
+    "word": "少数（しょうすう）",
+    "kanji": "少",
+    "reading": "しょう",
+    "meaning": "sedikit, minoritas",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "少数（しょうすう）",
+        "translation": "sedikit, minoritas"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-021",
+    "word": "強い（つよい）",
+    "kanji": "強",
+    "reading": "きょう",
+    "meaning": "kuat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "強い（つよい）",
+        "translation": "kuat"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-022",
+    "word": "弱い（よわい）",
+    "kanji": "弱",
+    "reading": "じゃく",
+    "meaning": "lemah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "弱い（よわい）",
+        "translation": "lemah"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-023",
+    "word": "沢山（たくさん）",
+    "kanji": "沢",
+    "reading": "さわ",
+    "meaning": "banyak (bentuk lain)",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "沢山（たくさん）",
+        "translation": "banyak (bentuk lain)"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-024",
+    "word": "足りる（たりる）",
+    "kanji": "足",
+    "reading": "そく / あし",
+    "meaning": "cukup, mencukupi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "足りる（たりる）",
+        "translation": "cukup, mencukupi"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-025",
+    "word": "表面（ひょうめん）",
+    "kanji": "面",
+    "reading": "めん",
+    "meaning": "permukaan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "表面（ひょうめん）",
+        "translation": "permukaan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-026",
+    "word": "色彩（しきさい）",
+    "kanji": "色",
+    "reading": "しょく / いろ",
+    "meaning": "warna",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "色彩（しきさい）",
+        "translation": "warna"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-027",
+    "word": "出口（でぐち）",
+    "kanji": "出",
+    "reading": "しゅつ / でる",
+    "meaning": "pintu keluar",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "出口（でぐち）",
+        "translation": "pintu keluar"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-028",
+    "word": "入学（にゅうがく）",
+    "kanji": "入",
+    "reading": "にゅう / はいる",
+    "meaning": "masuk sekolah/universitas",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "入学（にゅうがく）",
+        "translation": "masuk sekolah/universitas"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-029",
+    "word": "知識（ちしき）",
+    "kanji": "知",
+    "reading": "ち / しる",
+    "meaning": "pengetahuan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "知識（ちしき）",
+        "translation": "pengetahuan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-030",
+    "word": "言葉（ことば）",
+    "kanji": "言",
+    "reading": "げん / いう",
+    "meaning": "kata, bahasa",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "言葉（ことば）",
+        "translation": "kata, bahasa"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-031",
+    "word": "会話（かいわ）",
+    "kanji": "話",
+    "reading": "わ",
+    "meaning": "percakapan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "会話（かいわ）",
+        "translation": "percakapan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-032",
+    "word": "昨日（きのう）",
+    "kanji": "昨",
+    "reading": "さく",
+    "meaning": "kemarin",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "昨日（きのう）",
+        "translation": "kemarin"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-033",
+    "word": "今夜（こんや）",
+    "kanji": "今",
+    "reading": "こん",
+    "meaning": "malam ini",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "今夜（こんや）",
+        "translation": "malam ini"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-034",
+    "word": "明日（あす）",
+    "kanji": "明",
+    "reading": "めい",
+    "meaning": "besok",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "明日（あす）",
+        "translation": "besok"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-035",
+    "word": "暗闇（くらやみ）",
+    "kanji": "暗",
+    "reading": "あん",
+    "meaning": "kegelapan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "暗闇（くらやみ）",
+        "translation": "kegelapan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-036",
+    "word": "歴史（れきし）",
+    "kanji": "歴",
+    "reading": "れき",
+    "meaning": "sejarah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "歴史（れきし）",
+        "translation": "sejarah"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-037",
+    "word": "月曜日（げつようび）",
+    "kanji": "曜",
+    "reading": "よう",
+    "meaning": "hari Senin",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "月曜日（げつようび）",
+        "translation": "hari Senin"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-038",
+    "word": "旅行（りょこう）",
+    "kanji": "旅",
+    "reading": "たび",
+    "meaning": "perjalanan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "旅行（りょこう）",
+        "translation": "perjalanan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-039",
+    "word": "銀行（ぎんこう）",
+    "kanji": "銀",
+    "reading": "ぎん",
+    "meaning": "bank",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "銀行（ぎんこう）",
+        "translation": "bank"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-040",
+    "word": "金額（きんがく）",
+    "kanji": "金",
+    "reading": "きん",
+    "meaning": "jumlah uang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "金額（きんがく）",
+        "translation": "jumlah uang"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-041",
+    "word": "瞬間（しゅんかん）",
+    "kanji": "瞬",
+    "reading": "しゅん",
+    "meaning": "momen",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "瞬間（しゅんかん）",
+        "translation": "momen"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-042",
+    "word": "静か（しずか）",
+    "kanji": "静",
+    "reading": "せい",
+    "meaning": "tenang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "静か（しずか）",
+        "translation": "tenang"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-043",
+    "word": "階段（かいだん）",
+    "kanji": "階",
+    "reading": "かい",
+    "meaning": "tangga",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "階段（かいだん）",
+        "translation": "tangga"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-044",
+    "word": "部屋（へや）",
+    "kanji": "部",
+    "reading": "ぶ",
+    "meaning": "kamar/ruangan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "部屋（へや）",
+        "translation": "kamar/ruangan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-045",
+    "word": "続く（つづく）",
+    "kanji": "続",
+    "reading": "ぞく",
+    "meaning": "berlanjut",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "続く（つづく）",
+        "translation": "berlanjut"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-046",
+    "word": "速い（はやい）",
+    "kanji": "速",
+    "reading": "そく",
+    "meaning": "cepat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "速い（はやい）",
+        "translation": "cepat"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-047",
+    "word": "遅い（おそい）",
+    "kanji": "遅",
+    "reading": "ち",
+    "meaning": "lambat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "遅い（おそい）",
+        "translation": "lambat"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-048",
+    "word": "過去（かこ）",
+    "kanji": "過",
+    "reading": "か",
+    "meaning": "masa lalu",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "過去（かこ）",
+        "translation": "masa lalu"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-049",
+    "word": "変える（かえる）",
+    "kanji": "変",
+    "reading": "へん",
+    "meaning": "mengubah",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "変える（かえる）",
+        "translation": "mengubah"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-050",
+    "word": "直接（ちょくせつ）",
+    "kanji": "直",
+    "reading": "ちょく",
+    "meaning": "langsung",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "直接（ちょくせつ）",
+        "translation": "langsung"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-051",
+    "word": "選択（せんたく）",
+    "kanji": "選",
+    "reading": "せん",
+    "meaning": "pilihan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "選択（せんたく）",
+        "translation": "pilihan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-052",
+    "word": "頭脳（ずのう）",
+    "kanji": "頭",
+    "reading": "とう / あたま",
+    "meaning": "otak",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "頭脳（ずのう）",
+        "translation": "otak"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-053",
+    "word": "像徴（ぞうちょう）",
+    "kanji": "像",
+    "reading": "ぞう",
+    "meaning": "gambaran, citra",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "像徴（ぞうちょう）",
+        "translation": "gambaran, citra"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-054",
+    "word": "目的（もくてき）",
+    "kanji": "目的",
+    "reading": "もくてき",
+    "meaning": "tujuan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "目的（もくてき）",
+        "translation": "tujuan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-055",
+    "word": "番号（ばんごう）",
+    "kanji": "番",
+    "reading": "ばん",
+    "meaning": "nomor",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "番号（ばんごう）",
+        "translation": "nomor"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-056",
+    "word": "重要（じゅうよう）",
+    "kanji": "重要",
+    "reading": "じゅうよう",
+    "meaning": "penting",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "重要（じゅうよう）",
+        "translation": "penting"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-057",
+    "word": "明日（あした）",
+    "kanji": "明日",
+    "reading": "あす",
+    "meaning": "besok",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "明日（あした）",
+        "translation": "besok"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-058",
+    "word": "手紙（てがみ）",
+    "kanji": "手紙",
+    "reading": "てがみ",
+    "meaning": "surat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "手紙（てがみ）",
+        "translation": "surat"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-059",
+    "word": "先生（せんせい）",
+    "kanji": "先生",
+    "reading": "せんせい",
+    "meaning": "guru",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "先生（せんせい）",
+        "translation": "guru"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-060",
+    "word": "学者（がくしゃ）",
+    "kanji": "学者",
+    "reading": "がくしゃ",
+    "meaning": "ilmuwan/akademisi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "学者（がくしゃ）",
+        "translation": "ilmuwan/akademisi"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-061",
+    "word": "老人（ろうじん）",
+    "kanji": "老",
+    "reading": "ろう",
+    "meaning": "orang tua",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "老人（ろうじん）",
+        "translation": "orang tua"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-062",
+    "word": "友達（ともだち）",
+    "kanji": "友",
+    "reading": "ゆう",
+    "meaning": "teman",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "友達（ともだち）",
+        "translation": "teman"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-063",
+    "word": "近く（ちかく）",
+    "kanji": "近",
+    "reading": "きん",
+    "meaning": "dekat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "近く（ちかく）",
+        "translation": "dekat"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-064",
+    "word": "遠い（とおい）",
+    "kanji": "遠",
+    "reading": "えん",
+    "meaning": "jauh",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "遠い（とおい）",
+        "translation": "jauh"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-065",
+    "word": "雰囲気（ふんいき）",
+    "kanji": "雰囲気",
+    "reading": "ふんいき",
+    "meaning": "atmosfer, suasana",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "雰囲気（ふんいき）",
+        "translation": "atmosfer, suasana"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-066",
+    "word": "条件（じょうけん）",
+    "kanji": "条件",
+    "reading": "じょうけん",
+    "meaning": "syarat",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "条件（じょうけん）",
+        "translation": "syarat"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-067",
+    "word": "結果（けっか）",
+    "kanji": "結果",
+    "reading": "けっか",
+    "meaning": "hasil",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "結果（けっか）",
+        "translation": "hasil"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-068",
+    "word": "追加（ついか）",
+    "kanji": "追加",
+    "reading": "ついか",
+    "meaning": "tambahan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "追加（ついか）",
+        "translation": "tambahan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-069",
+    "word": "持続（じぞく）",
+    "kanji": "持続",
+    "reading": "じぞく",
+    "meaning": "berkelanjutan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "持続（じぞく）",
+        "translation": "berkelanjutan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-070",
+    "word": "形成（けいせい）",
+    "kanji": "形成",
+    "reading": "けいせい",
+    "meaning": "pembentukan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "形成（けいせい）",
+        "translation": "pembentukan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-071",
+    "word": "知覚（ちかく）",
+    "kanji": "知覚",
+    "reading": "ちかく",
+    "meaning": "persepsi",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "知覚（ちかく）",
+        "translation": "persepsi"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-072",
+    "word": "観点（かんてん）",
+    "kanji": "観点",
+    "reading": "かんてん",
+    "meaning": "sudut pandang",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "観点（かんてん）",
+        "translation": "sudut pandang"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-073",
+    "word": "可能（かのう）",
+    "kanji": "可能",
+    "reading": "かのう",
+    "meaning": "memungkinkan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "可能（かのう）",
+        "translation": "memungkinkan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-074",
+    "word": "期待（きたい）",
+    "kanji": "期待",
+    "reading": "きたい",
+    "meaning": "harapan",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "期待（きたい）",
+        "translation": "harapan"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
+    "id": "mock-mock-h1-075",
+    "word": "影響（えいきょう）",
+    "kanji": "影響",
+    "reading": "えいきょう",
+    "meaning": "pengaruh",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "影響（えいきょう）",
+        "translation": "pengaruh"
+      }
+    ],
+    "tags": [
+      "H1"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "✅"
+  },
+  {
     "id": "mock-mock-h2-076",
     "word": "耕して",
     "kanji": "耕",
