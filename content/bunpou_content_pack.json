@@ -1,0 +1,2108 @@
+{
+  "manifest": {
+    "manifestVersion": 1,
+    "schemaVersion": "1.0.0",
+    "contentVersion": "2.0.0",
+    "lastUpdated": "2026-11-02T00:00:00.000Z",
+    "packName": "Bunpou Grammar Pack",
+    "packDescription": "Bunpou grammar patterns",
+    "bunpouCount": 91,
+    "kotobaCount": 0
+  },
+  "bunpou": [
+    {
+      "id": "n2-001",
+      "pattern": "～一方だ",
+      "meaning": "terus berubah ke satu arah",
+      "function": "Pola 一方だ digunakan untuk menyatakan terus berubah ke satu arah. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V bentuk kamus + 一方だ",
+      "note": "",
+      "tags": [
+        "Perubahan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "物価は上がる一方だ。",
+          "translation": "Harga terus naik tanpa henti."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-002",
+      "pattern": "～欠かさず",
+      "meaning": "tanpa melewatkan satu kali pun",
+      "function": "Pola 欠かさず digunakan untuk menyatakan tanpa melewatkan satu kali pun. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + を欠かさず",
+      "note": "",
+      "tags": [
+        "Kebiasaan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "毎朝、運動を欠かさず続けている。",
+          "translation": "Setiap pagi, saya terus berolahraga tanpa pernah melewatkannya."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-003",
+      "pattern": "～た上で",
+      "meaning": "setelah melakukan atau mempertimbangkan",
+      "function": "Pola た上で digunakan untuk menyatakan setelah melakukan atau mempertimbangkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V bentuk た + 上で / Nの + 上で",
+      "note": "",
+      "tags": [
+        "Urutan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "よく考えた上で、返事をします。",
+          "translation": "Saya akan menjawab setelah mempertimbangkannya baik-baik."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-004",
+      "pattern": "～ことはない",
+      "meaning": "tidak perlu; tidak usah",
+      "function": "Pola ことはない digunakan untuk menyatakan tidak perlu; tidak usah. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V bentuk kamus + ことはない",
+      "note": "",
+      "tags": [
+        "Nasihat",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "そんなに心配することはない。",
+          "translation": "Kamu tidak perlu terlalu khawatir."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-005",
+      "pattern": "～すら／さえ",
+      "meaning": "bahkan; sampai hal paling dasar",
+      "function": "Pola すら／さえ digunakan untuk menyatakan bahkan; sampai hal paling dasar. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + すら／さえ",
+      "note": "",
+      "tags": [
+        "Penekanan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼は自分の名前すら書けない。",
+          "translation": "Dia bahkan tidak bisa menulis namanya sendiri."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-006",
+      "pattern": "～次第",
+      "meaning": "segera setelah; begitu",
+      "function": "Pola 次第 digunakan untuk menyatakan segera setelah; begitu. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V stem ます + 次第",
+      "note": "",
+      "tags": [
+        "Waktu",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "確認次第、ご連絡します。",
+          "translation": "Segera setelah terkonfirmasi, saya akan menghubungi Anda."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-007",
+      "pattern": "～末に",
+      "meaning": "setelah proses panjang, akhirnya",
+      "function": "Pola 末に digunakan untuk menyatakan setelah proses panjang, akhirnya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vた + 末に / Nの + 末に",
+      "note": "",
+      "tags": [
+        "Hasil",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "長い議論の末に、計画を変更した。",
+          "translation": "Setelah diskusi panjang, akhirnya rencana diubah."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-008",
+      "pattern": "～たいだけ",
+      "meaning": "sebanyak/sepuas yang diinginkan",
+      "function": "Pola たいだけ digunakan untuk menyatakan sebanyak/sepuas yang diinginkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vたい + だけ + V",
+      "note": "",
+      "tags": [
+        "Keinginan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "食べたいだけ食べてください。",
+          "translation": "Silakan makan sepuas yang Anda inginkan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-009",
+      "pattern": "～だけに",
+      "meaning": "justru karena; sesuai besarnya alasan",
+      "function": "Pola だけに digunakan untuk menyatakan justru karena; sesuai besarnya alasan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + だけに",
+      "note": "",
+      "tags": [
+        "Sebab",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "期待していただけに、失望も大きかった。",
+          "translation": "Justru karena sangat berharap, kekecewaannya besar."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-010",
+      "pattern": "～だって",
+      "meaning": "bahkan; siapa pun juga",
+      "function": "Pola だって digunakan untuk menyatakan bahkan; siapa pun juga. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/ kata tanya + だって",
+      "note": "",
+      "tags": [
+        "Percakapan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "誰だって失敗することはある。",
+          "translation": "Siapa pun pasti pernah gagal."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-011",
+      "pattern": "～たら〜で",
+      "meaning": "kalaupun begitu, ada konsekuensinya",
+      "function": "Pola たら〜で digunakan untuk menyatakan kalaupun begitu, ada konsekuensinya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vたら + Vた + で",
+      "note": "",
+      "tags": [
+        "Kondisi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "雨が降ったら降ったで、家で休めばいい。",
+          "translation": "Kalaupun hujan, kita bisa beristirahat di rumah."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-012",
+      "pattern": "～て以来",
+      "meaning": "sejak saat itu hingga kini",
+      "function": "Pola て以来 digunakan untuk menyatakan sejak saat itu hingga kini. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vて + 以来",
+      "note": "",
+      "tags": [
+        "Waktu",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "日本に来て以来、病気をしていない。",
+          "translation": "Sejak datang ke Jepang, saya belum pernah sakit."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-013",
+      "pattern": "～のではないか",
+      "meaning": "bukankah; sepertinya",
+      "function": "Pola のではないか digunakan untuk menyatakan bukankah; sepertinya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + のではないか",
+      "note": "",
+      "tags": [
+        "Opini",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "これは大切な問題なのではないか。",
+          "translation": "Bukankah ini masalah penting?"
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-014",
+      "pattern": "～といえば",
+      "meaning": "kalau bicara tentang",
+      "function": "Pola といえば digunakan untuk menyatakan kalau bicara tentang. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + といえば",
+      "note": "",
+      "tags": [
+        "Topik",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "日本料理といえば、寿司が有名だ。",
+          "translation": "Kalau bicara masakan Jepang, sushi terkenal."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-015",
+      "pattern": "～といった",
+      "meaning": "seperti; antara lain",
+      "function": "Pola といった digunakan untuk menyatakan seperti; antara lain. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "contoh + といった + N",
+      "note": "",
+      "tags": [
+        "Contoh",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "寿司や天ぷらといった料理が好きだ。",
+          "translation": "Saya suka makanan seperti sushi dan tempura."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-016",
+      "pattern": "～としたら／とすれば",
+      "meaning": "seandainya; jika diasumsikan",
+      "function": "Pola としたら／とすれば digunakan untuk menyatakan seandainya; jika diasumsikan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + としたら／とすれば",
+      "note": "",
+      "tags": [
+        "Pengandaian",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "もし生まれ変わるとしたら、鳥になりたい。",
+          "translation": "Seandainya terlahir kembali, saya ingin menjadi burung."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-017",
+      "pattern": "～として／としては／としても",
+      "meaning": "sebagai; selaku",
+      "function": "Pola として／としては／としても digunakan untuk menyatakan sebagai; selaku. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + として",
+      "note": "",
+      "tags": [
+        "Peran",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "教師として、学生を支えたい。",
+          "translation": "Sebagai guru, saya ingin mendukung siswa."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-018",
+      "pattern": "～にかけては",
+      "meaning": "dalam hal tertentu adalah yang terbaik",
+      "function": "Pola にかけては digunakan untuk menyatakan dalam hal tertentu adalah yang terbaik. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + にかけては",
+      "note": "",
+      "tags": [
+        "Keahlian",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "料理にかけては、彼が一番上手だ。",
+          "translation": "Dalam hal memasak, dialah yang terbaik."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-019",
+      "pattern": "～にすぎない",
+      "meaning": "tidak lebih dari; hanya",
+      "function": "Pola にすぎない digunakan untuk menyatakan tidak lebih dari; hanya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa/N + にすぎない",
+      "note": "",
+      "tags": [
+        "Pembatasan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "私は自分の経験を話したにすぎない。",
+          "translation": "Saya hanya menceritakan pengalaman saya."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-020",
+      "pattern": "～によらず",
+      "meaning": "tanpa memandang; tidak berdasarkan",
+      "function": "Pola によらず digunakan untuk menyatakan tanpa memandang; tidak berdasarkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + によらず",
+      "note": "",
+      "tags": [
+        "Aturan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "年齢によらず、応募できます。",
+          "translation": "Anda dapat melamar tanpa memandang usia."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-021",
+      "pattern": "～にわたって",
+      "meaning": "sepanjang rentang; mencakup",
+      "function": "Pola にわたって digunakan untuk menyatakan sepanjang rentang; mencakup. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + にわたって",
+      "note": "",
+      "tags": [
+        "Rentang",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "会議は三時間にわたって続いた。",
+          "translation": "Rapat berlangsung selama tiga jam."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-022",
+      "pattern": "～ものなら",
+      "meaning": "seandainya bisa, walau sulit/mustahil",
+      "function": "Pola ものなら digunakan untuk menyatakan seandainya bisa, walau sulit/mustahil. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V potensial + ものなら",
+      "note": "",
+      "tags": [
+        "Penyesalan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "戻れるものなら、学生時代に戻りたい。",
+          "translation": "Seandainya bisa, saya ingin kembali ke masa sekolah."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-023",
+      "pattern": "～ものだ／ものではない",
+      "meaning": "sudah sewajarnya; tidak pantas",
+      "function": "Pola ものだ／ものではない digunakan untuk menyatakan sudah sewajarnya; tidak pantas. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V kamus + ものだ／ものではない",
+      "note": "",
+      "tags": [
+        "Norma",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "人に迷惑をかけるものではない。",
+          "translation": "Tidak pantas merepotkan orang lain."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-024",
+      "pattern": "～わけだ",
+      "meaning": "pantas saja; berarti memang",
+      "function": "Pola わけだ digunakan untuk menyatakan pantas saja; berarti memang. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + わけだ",
+      "note": "",
+      "tags": [
+        "Logika",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "十年住んでいるから、日本語が上手なわけだ。",
+          "translation": "Pantas bahasa Jepangnya lancar; dia sudah tinggal sepuluh tahun."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-025",
+      "pattern": "～わけではない／わけがない",
+      "meaning": "bukan berarti; mustahil",
+      "function": "Pola わけではない／わけがない digunakan untuk menyatakan bukan berarti; mustahil. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + わけではない／わけがない",
+      "note": "",
+      "tags": [
+        "Penyangkalan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "仕事が嫌いなわけではない。",
+          "translation": "Bukan berarti saya membenci pekerjaan ini."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-026",
+      "pattern": "～あまりに／あまりの",
+      "meaning": "terlalu; karena terlalu ... sehingga",
+      "function": "Pola あまりに／あまりの digunakan untuk menyatakan terlalu; karena terlalu ... sehingga. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "あまりに + adj/V / あまりのNに",
+      "note": "",
+      "tags": [
+        "Derajat",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "あまりに忙しくて、昼食を忘れた。",
+          "translation": "Karena terlalu sibuk, saya lupa makan siang."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-027",
+      "pattern": "～以上は",
+      "meaning": "karena sudah; selama",
+      "function": "Pola 以上は digunakan untuk menyatakan karena sudah; selama. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + 以上は",
+      "note": "",
+      "tags": [
+        "Kewajiban",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "約束した以上は、守るべきだ。",
+          "translation": "Karena sudah berjanji, seharusnya ditepati."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-028",
+      "pattern": "～上に",
+      "meaning": "selain itu; bahkan",
+      "function": "Pola 上に digunakan untuk menyatakan selain itu; bahkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + 上に",
+      "note": "",
+      "tags": [
+        "Penambahan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "この店は安い上に、駅から近い。",
+          "translation": "Toko ini murah dan selain itu dekat stasiun."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-029",
+      "pattern": "～おきに",
+      "meaning": "setiap interval",
+      "function": "Pola おきに digunakan untuk menyatakan setiap interval. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N waktu/jarak + おきに",
+      "note": "",
+      "tags": [
+        "Interval",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "二駅おきに電車が止まる。",
+          "translation": "Kereta berhenti setiap dua stasiun."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-030",
+      "pattern": "～がたい",
+      "meaning": "sulit untuk dilakukan",
+      "function": "Pola がたい digunakan untuk menyatakan sulit untuk dilakukan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V stem ます + がたい",
+      "note": "",
+      "tags": [
+        "Kesulitan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼の説明は理解しがたい。",
+          "translation": "Penjelasannya sulit dipahami."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-031",
+      "pattern": "～がちだ",
+      "meaning": "cenderung; mudah menjadi",
+      "function": "Pola がちだ digunakan untuk menyatakan cenderung; mudah menjadi. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/V stem + がちだ",
+      "note": "",
+      "tags": [
+        "Kecenderungan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "忙しいと、食事を忘れがちだ。",
+          "translation": "Saat sibuk, saya cenderung lupa makan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-032",
+      "pattern": "～かと思うと",
+      "meaning": "baru saja ... ternyata",
+      "function": "Pola かと思うと digunakan untuk menyatakan baru saja ... ternyata. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + かと思うと",
+      "note": "",
+      "tags": [
+        "Perubahan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "雨がやんだかと思うと、また降り始めた。",
+          "translation": "Baru saja hujan berhenti, ternyata mulai turun lagi."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-033",
+      "pattern": "～からすると／からすれば",
+      "meaning": "dilihat dari; menurut",
+      "function": "Pola からすると／からすれば digunakan untuk menyatakan dilihat dari; menurut. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + からすると／からすれば",
+      "note": "",
+      "tags": [
+        "Sudut pandang",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼の経験からすると、成功するだろう。",
+          "translation": "Dilihat dari pengalamannya, dia mungkin berhasil."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-034",
+      "pattern": "～からして",
+      "meaning": "bahkan dari; dilihat dari",
+      "function": "Pola からして digunakan untuk menyatakan bahkan dari; dilihat dari. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + からして",
+      "note": "",
+      "tags": [
+        "Petunjuk",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼は話し方からして親切そうだ。",
+          "translation": "Dilihat dari cara bicaranya saja, dia tampak baik."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-035",
+      "pattern": "～からには",
+      "meaning": "karena sudah; selama",
+      "function": "Pola からには digunakan untuk menyatakan karena sudah; selama. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + からには",
+      "note": "",
+      "tags": [
+        "Tekad",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "参加するからには、最後まで頑張る。",
+          "translation": "Karena sudah ikut, saya akan berusaha sampai akhir."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-036",
+      "pattern": "～きり",
+      "meaning": "sejak ... dan tidak lagi",
+      "function": "Pola きり digunakan untuk menyatakan sejak ... dan tidak lagi. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vた + きり",
+      "note": "",
+      "tags": [
+        "Kelanjutan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼は出かけたきり、戻ってこない。",
+          "translation": "Sejak pergi, dia tidak kembali lagi."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-037",
+      "pattern": "～くせに",
+      "meaning": "padahal; meskipun",
+      "function": "Pola くせに digunakan untuk menyatakan padahal; meskipun. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + くせに",
+      "note": "",
+      "tags": [
+        "Kontras",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "知っているくせに、教えてくれない。",
+          "translation": "Padahal tahu, dia tidak mau memberi tahu."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-038",
+      "pattern": "～ことから",
+      "meaning": "dari fakta bahwa; karena",
+      "function": "Pola ことから digunakan untuk menyatakan dari fakta bahwa; karena. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + ことから",
+      "note": "",
+      "tags": [
+        "Sebab",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "駅に近いことから、この店を選んだ。",
+          "translation": "Saya memilih toko ini karena dekat stasiun."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-039",
+      "pattern": "～ことに",
+      "meaning": "yang ... sekali; dengan perasaan",
+      "function": "Pola ことに digunakan untuk menyatakan yang ... sekali; dengan perasaan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vた/adj + ことに",
+      "note": "",
+      "tags": [
+        "Emosi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "驚いたことに、彼は一人で完成させた。",
+          "translation": "Yang mengejutkan, dia menyelesaikannya sendiri."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-040",
+      "pattern": "～ことなく",
+      "meaning": "tanpa melakukan",
+      "function": "Pola ことなく digunakan untuk menyatakan tanpa melakukan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V kamus + ことなく",
+      "note": "",
+      "tags": [
+        "Cara",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼は一度も休むことなく働いた。",
+          "translation": "Dia bekerja tanpa beristirahat satu kali pun."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-041",
+      "pattern": "～ことにはならない",
+      "meaning": "tidak berarti bahwa; tidak bisa dianggap",
+      "function": "Pola ことにはならない digunakan untuk menyatakan tidak berarti bahwa; tidak bisa dianggap. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + ことにはならない",
+      "note": "",
+      "tags": [
+        "Logika",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "謝ったからといって、許したことにはならない。",
+          "translation": "Meminta maaf bukan berarti sudah dimaafkan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-042",
+      "pattern": "～際に",
+      "meaning": "ketika; pada kesempatan",
+      "function": "Pola 際に digunakan untuk menyatakan ketika; pada kesempatan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V/N + 際に",
+      "note": "",
+      "tags": [
+        "Waktu",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "ご利用の際には、規則をお読みください。",
+          "translation": "Saat menggunakan layanan, bacalah peraturan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-043",
+      "pattern": "～最中に",
+      "meaning": "di tengah-tengah",
+      "function": "Pola 最中に digunakan untuk menyatakan di tengah-tengah. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Nの/Vている + 最中に",
+      "note": "",
+      "tags": [
+        "Waktu",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "会議の最中に、電話が鳴った。",
+          "translation": "Di tengah rapat, telepon berdering."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-044",
+      "pattern": "～次第で",
+      "meaning": "tergantung pada",
+      "function": "Pola 次第で digunakan untuk menyatakan tergantung pada. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + 次第で",
+      "note": "",
+      "tags": [
+        "Ketergantungan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "結果は努力次第で変わる。",
+          "translation": "Hasil berubah tergantung usaha."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-045",
+      "pattern": "～ずにはいられない",
+      "meaning": "tidak bisa tidak; tak tahan untuk tidak",
+      "function": "Pola ずにはいられない digunakan untuk menyatakan tidak bisa tidak; tak tahan untuk tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vずにはいられない",
+      "note": "",
+      "tags": [
+        "Emosi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "その話を聞いて、笑わずにはいられなかった。",
+          "translation": "Setelah mendengar cerita itu, saya tidak bisa menahan tawa."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-046",
+      "pattern": "～せいで",
+      "meaning": "gara-gara; akibat buruk",
+      "function": "Pola せいで digunakan untuk menyatakan gara-gara; akibat buruk. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + せいで",
+      "note": "",
+      "tags": [
+        "Sebab buruk",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "雨のせいで、試合が中止になった。",
+          "translation": "Gara-gara hujan, pertandingan dibatalkan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-047",
+      "pattern": "～だけあって",
+      "meaning": "sesuai reputasi/harapan",
+      "function": "Pola だけあって digunakan untuk menyatakan sesuai reputasi/harapan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa/N + だけあって",
+      "note": "",
+      "tags": [
+        "Evaluasi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "有名な店だけあって、料理がすばらしい。",
+          "translation": "Sesuai reputasinya, masakan restoran terkenal itu luar biasa."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-048",
+      "pattern": "～だけに",
+      "meaning": "justru karena; sesuai harapan",
+      "function": "Pola だけに digunakan untuk menyatakan justru karena; sesuai harapan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + だけに",
+      "note": "",
+      "tags": [
+        "Sebab",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "経験が豊富なだけに、判断が速い。",
+          "translation": "Justru karena berpengalaman, penilaiannya cepat."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-049",
+      "pattern": "～だけの",
+      "meaning": "sepadan dengan; sebanyak yang",
+      "function": "Pola だけの digunakan untuk menyatakan sepadan dengan; sebanyak yang. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + だけの + N",
+      "note": "",
+      "tags": [
+        "Jumlah",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "必要なだけのお金を持っていく。",
+          "translation": "Saya membawa uang sebanyak yang diperlukan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-050",
+      "pattern": "～たとえ〜ても",
+      "meaning": "meskipun seandainya",
+      "function": "Pola たとえ〜ても digunakan untuk menyatakan meskipun seandainya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "たとえ + Vても/adjても",
+      "note": "",
+      "tags": [
+        "Konsesi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "たとえ失敗しても、挑戦したい。",
+          "translation": "Meskipun gagal, saya ingin mencoba."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-051",
+      "pattern": "～たびに",
+      "meaning": "setiap kali",
+      "function": "Pola たびに digunakan untuk menyatakan setiap kali. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V kamus/Nの + たびに",
+      "note": "",
+      "tags": [
+        "Pengulangan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "この写真を見るたびに、旅を思い出す。",
+          "translation": "Setiap melihat foto ini, saya teringat perjalanan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-052",
+      "pattern": "～だらけ",
+      "meaning": "penuh dengan; berlumuran",
+      "function": "Pola だらけ digunakan untuk menyatakan penuh dengan; berlumuran. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + だらけ",
+      "note": "",
+      "tags": [
+        "Keadaan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "シャツが泥だらけになった。",
+          "translation": "Baju itu menjadi penuh lumpur."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-053",
+      "pattern": "～つつ／つつある",
+      "meaning": "sambil; sedang dalam proses",
+      "function": "Pola つつ／つつある digunakan untuk menyatakan sambil; sedang dalam proses. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V stem ます + つつある",
+      "note": "",
+      "tags": [
+        "Proses",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "町は少しずつ変わりつつある。",
+          "translation": "Kota itu sedang berubah sedikit demi sedikit."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-054",
+      "pattern": "～てたまらない",
+      "meaning": "sangat ... sampai tak tertahankan",
+      "function": "Pola てたまらない digunakan untuk menyatakan sangat ... sampai tak tertahankan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vて/adjて + たまらない",
+      "note": "",
+      "tags": [
+        "Perasaan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "試験の結果が気になってたまらない。",
+          "translation": "Saya sangat penasaran dengan hasil ujian."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-055",
+      "pattern": "～てはならない",
+      "meaning": "tidak boleh",
+      "function": "Pola てはならない digunakan untuk menyatakan tidak boleh. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vてはならない",
+      "note": "",
+      "tags": [
+        "Larangan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "ここで写真を撮ってはならない。",
+          "translation": "Tidak boleh mengambil foto di sini."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-056",
+      "pattern": "～てもかまわない",
+      "meaning": "tidak apa-apa jika",
+      "function": "Pola てもかまわない digunakan untuk menyatakan tidak apa-apa jika. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vても/Nでも + かまわない",
+      "note": "",
+      "tags": [
+        "Izin",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "明日来てもかまいません。",
+          "translation": "Tidak apa-apa jika datang besok."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-057",
+      "pattern": "～ても仕方がない",
+      "meaning": "tidak ada gunanya; tak terhindarkan",
+      "function": "Pola ても仕方がない digunakan untuk menyatakan tidak ada gunanya; tak terhindarkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vても + 仕方がない",
+      "note": "",
+      "tags": [
+        "Penerimaan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "終わったことを悔やんでも仕方がない。",
+          "translation": "Tidak ada gunanya menyesali hal yang sudah berlalu."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-058",
+      "pattern": "～ということだ",
+      "meaning": "berarti; kabarnya",
+      "function": "Pola ということだ digunakan untuk menyatakan berarti; kabarnya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + ということだ",
+      "note": "",
+      "tags": [
+        "Informasi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "来月から値上げするということだ。",
+          "translation": "Kabarnya harga akan naik mulai bulan depan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-059",
+      "pattern": "～というものだ",
+      "meaning": "memang begitulah; itulah yang disebut",
+      "function": "Pola というものだ digunakan untuk menyatakan memang begitulah; itulah yang disebut. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa + というものだ",
+      "note": "",
+      "tags": [
+        "Penilaian",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "努力してこそ成功というものだ。",
+          "translation": "Justru usaha itulah yang disebut keberhasilan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-060",
+      "pattern": "～というより",
+      "meaning": "daripada mengatakan ... lebih tepat ...",
+      "function": "Pola というより digunakan untuk menyatakan daripada mengatakan ... lebih tepat .... Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/bentuk biasa + というより",
+      "note": "",
+      "tags": [
+        "Koreksi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "静かというより、寂しい町だ。",
+          "translation": "Daripada tenang, kota ini lebih tepat disebut sepi."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-061",
+      "pattern": "～とともに",
+      "meaning": "bersamaan dengan; bersama",
+      "function": "Pola とともに digunakan untuk menyatakan bersamaan dengan; bersama. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/V kamus + とともに",
+      "note": "",
+      "tags": [
+        "Perubahan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "年齢とともに、考え方も変わる。",
+          "translation": "Seiring bertambahnya usia, cara berpikir juga berubah."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-062",
+      "pattern": "～ないことには",
+      "meaning": "kalau tidak ... maka tidak",
+      "function": "Pola ないことには digunakan untuk menyatakan kalau tidak ... maka tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vない + ことには",
+      "note": "",
+      "tags": [
+        "Syarat",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "実際に見ないことには、判断できない。",
+          "translation": "Kalau tidak melihat langsung, tidak bisa menilai."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-063",
+      "pattern": "～ないではいられない",
+      "meaning": "tidak bisa menahan diri untuk tidak",
+      "function": "Pola ないではいられない digunakan untuk menyatakan tidak bisa menahan diri untuk tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vないではいられない",
+      "note": "",
+      "tags": [
+        "Emosi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "その映画を見ると、泣かないではいられない。",
+          "translation": "Saat menonton film itu, saya tidak bisa menahan tangis."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-064",
+      "pattern": "～など",
+      "meaning": "seperti; dan sebagainya",
+      "function": "Pola など digunakan untuk menyatakan seperti; dan sebagainya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + など",
+      "note": "",
+      "tags": [
+        "Contoh",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "本や雑誌などを読んでいる。",
+          "translation": "Saya membaca buku, majalah, dan sebagainya."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-065",
+      "pattern": "～ならでは",
+      "meaning": "hanya khas",
+      "function": "Pola ならでは digunakan untuk menyatakan hanya khas. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + ならではの + N",
+      "note": "",
+      "tags": [
+        "Keunikan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "これは京都ならではの景色だ。",
+          "translation": "Ini pemandangan khas Kyoto."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-066",
+      "pattern": "～にあたって",
+      "meaning": "pada saat akan; dalam rangka",
+      "function": "Pola にあたって digunakan untuk menyatakan pada saat akan; dalam rangka. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/V kamus + にあたって",
+      "note": "",
+      "tags": [
+        "Kesempatan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "入学にあたって、書類を提出する。",
+          "translation": "Saat masuk sekolah, saya menyerahkan dokumen."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-067",
+      "pattern": "～において",
+      "meaning": "di; dalam (formal)",
+      "function": "Pola において digunakan untuk menyatakan di; dalam (formal). Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + において",
+      "note": "",
+      "tags": [
+        "Tempat/bidang",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "現代社会において、情報は重要だ。",
+          "translation": "Dalam masyarakat modern, informasi penting."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-068",
+      "pattern": "～に先立って",
+      "meaning": "sebelum; mendahului",
+      "function": "Pola に先立って digunakan untuk menyatakan sebelum; mendahului. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/V kamus + に先立って",
+      "note": "",
+      "tags": [
+        "Urutan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "式典に先立って、説明会を開く。",
+          "translation": "Sebelum upacara, diadakan pengarahan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-069",
+      "pattern": "～に沿って",
+      "meaning": "sesuai dengan; sepanjang",
+      "function": "Pola に沿って digunakan untuk menyatakan sesuai dengan; sepanjang. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + に沿って",
+      "note": "",
+      "tags": [
+        "Kesesuaian",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "計画に沿って作業を進める。",
+          "translation": "Kami melanjutkan pekerjaan sesuai rencana."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-070",
+      "pattern": "～に対して",
+      "meaning": "terhadap; sedangkan",
+      "function": "Pola に対して digunakan untuk menyatakan terhadap; sedangkan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + に対して",
+      "note": "",
+      "tags": [
+        "Relasi",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "質問に対して、丁寧に答えた。",
+          "translation": "Saya menjawab pertanyaan itu dengan sopan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-071",
+      "pattern": "～につれて",
+      "meaning": "seiring dengan",
+      "function": "Pola につれて digunakan untuk menyatakan seiring dengan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/V kamus + につれて",
+      "note": "",
+      "tags": [
+        "Perubahan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "春になるにつれて、暖かくなる。",
+          "translation": "Seiring datangnya musim semi, cuaca menghangat."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-072",
+      "pattern": "～に伴って",
+      "meaning": "seiring dengan; disertai",
+      "function": "Pola に伴って digunakan untuk menyatakan seiring dengan; disertai. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/V kamus + に伴って",
+      "note": "",
+      "tags": [
+        "Perubahan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "人口の増加に伴って、問題も増えた。",
+          "translation": "Seiring pertumbuhan penduduk, masalah juga bertambah."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-073",
+      "pattern": "～にほかならない",
+      "meaning": "tidak lain adalah",
+      "function": "Pola にほかならない digunakan untuk menyatakan tidak lain adalah. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N/bentuk biasa + にほかならない",
+      "note": "",
+      "tags": [
+        "Penegasan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "成功は努力の結果にほかならない。",
+          "translation": "Keberhasilan tidak lain adalah hasil usaha."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-074",
+      "pattern": "～のもとで",
+      "meaning": "di bawah; dalam naungan",
+      "function": "Pola のもとで digunakan untuk menyatakan di bawah; dalam naungan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + のもとで",
+      "note": "",
+      "tags": [
+        "Naungan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "先生の指導のもとで研究した。",
+          "translation": "Saya meneliti di bawah bimbingan guru."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-075",
+      "pattern": "～はもとより",
+      "meaning": "apalagi; belum lagi",
+      "function": "Pola はもとより digunakan untuk menyatakan apalagi; belum lagi. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + はもとより",
+      "note": "",
+      "tags": [
+        "Penambahan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼は英語はもとより、中国語も話せる。",
+          "translation": "Dia bisa berbahasa Inggris, bahkan bahasa Mandarin juga."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-076",
+      "pattern": "～反面",
+      "meaning": "di sisi lain",
+      "function": "Pola 反面 digunakan untuk menyatakan di sisi lain. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa/N + 反面",
+      "note": "",
+      "tags": [
+        "Kontras",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "便利な反面、費用が高い。",
+          "translation": "Di sisi lain, meski praktis, biayanya mahal."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-077",
+      "pattern": "～まい",
+      "meaning": "tidak akan; mungkin tidak",
+      "function": "Pola まい digunakan untuk menyatakan tidak akan; mungkin tidak. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V kamus + まい",
+      "note": "",
+      "tags": [
+        "Tekad",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "二度と同じ失敗はするまい。",
+          "translation": "Saya tidak akan mengulangi kesalahan yang sama."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-078",
+      "pattern": "～まるで",
+      "meaning": "seolah-olah; benar-benar seperti",
+      "function": "Pola まるで digunakan untuk menyatakan seolah-olah; benar-benar seperti. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "まるで + Nのようだ",
+      "note": "",
+      "tags": [
+        "Perbandingan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼の話はまるで夢のようだ。",
+          "translation": "Ceritanya benar-benar seperti mimpi."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-079",
+      "pattern": "～むしろ",
+      "meaning": "malah; lebih tepatnya",
+      "function": "Pola むしろ digunakan untuk menyatakan malah; lebih tepatnya. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "むしろ + predikat",
+      "note": "",
+      "tags": [
+        "Perbandingan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼は怒るより、むしろ笑った。",
+          "translation": "Daripada marah, dia malah tertawa."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-080",
+      "pattern": "～もかまわず",
+      "meaning": "tanpa memedulikan",
+      "function": "Pola もかまわず digunakan untuk menyatakan tanpa memedulikan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Nもかまわず",
+      "note": "",
+      "tags": [
+        "Sikap",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼は周囲の目もかまわず歌った。",
+          "translation": "Dia bernyanyi tanpa memedulikan pandangan sekitar."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-081",
+      "pattern": "～もとより",
+      "meaning": "tentu saja; sejak awal",
+      "function": "Pola もとより digunakan untuk menyatakan tentu saja; sejak awal. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Nはもとより / もとより",
+      "note": "",
+      "tags": [
+        "Penegasan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "彼はもとより参加するつもりだった。",
+          "translation": "Sejak awal dia memang berniat ikut."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-082",
+      "pattern": "～ようがない",
+      "meaning": "tidak ada cara untuk",
+      "function": "Pola ようがない digunakan untuk menyatakan tidak ada cara untuk. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V stem ます + ようがない",
+      "note": "",
+      "tags": [
+        "Kemustahilan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "連絡先がなく、探しようがない。",
+          "translation": "Karena tidak ada kontak, tidak ada cara mencarinya."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-083",
+      "pattern": "～ようでは",
+      "meaning": "kalau sampai ... (buruk)",
+      "function": "Pola ようでは digunakan untuk menyatakan kalau sampai ... (buruk). Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "Vようでは",
+      "note": "",
+      "tags": [
+        "Peringatan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "そんな態度では、信頼されようがない。",
+          "translation": "Kalau bersikap begitu, mustahil dipercaya."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-084",
+      "pattern": "～ように",
+      "meaning": "agar; seperti",
+      "function": "Pola ように digunakan untuk menyatakan agar; seperti. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "V kamus/ない + ように",
+      "note": "",
+      "tags": [
+        "Tujuan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "忘れないように、メモしてください。",
+          "translation": "Tolong catat agar tidak lupa."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-085",
+      "pattern": "～わりに",
+      "meaning": "walaupun; dibandingkan dengan",
+      "function": "Pola わりに digunakan untuk menyatakan walaupun; dibandingkan dengan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "bentuk biasa/Nの + わりに",
+      "note": "",
+      "tags": [
+        "Kontras",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "この料理は安いわりに、おいしい。",
+          "translation": "Makanan ini enak walaupun murah."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-086",
+      "pattern": "～をめぐって",
+      "meaning": "seputar; mengenai perselisihan",
+      "function": "Pola をめぐって digunakan untuk menyatakan seputar; mengenai perselisihan. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + をめぐって",
+      "note": "",
+      "tags": [
+        "Perdebatan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "計画をめぐって、意見が分かれた。",
+          "translation": "Pendapat terbagi mengenai rencana itu."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-087",
+      "pattern": "～を問わず",
+      "meaning": "tanpa memandang",
+      "function": "Pola を問わず digunakan untuk menyatakan tanpa memandang. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + を問わず",
+      "note": "",
+      "tags": [
+        "Aturan",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "経験の有無を問わず応募できる。",
+          "translation": "Siapa pun dapat melamar tanpa memandang pengalaman."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-088",
+      "pattern": "～を通じて",
+      "meaning": "melalui; sepanjang",
+      "function": "Pola を通じて digunakan untuk menyatakan melalui; sepanjang. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + を通じて",
+      "note": "",
+      "tags": [
+        "Media/waktu",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "一年を通じて、多くの観光客が訪れる。",
+          "translation": "Sepanjang tahun, banyak turis berkunjung."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-089",
+      "pattern": "～をはじめ",
+      "meaning": "mulai dari; termasuk",
+      "function": "Pola をはじめ digunakan untuk menyatakan mulai dari; termasuk. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + をはじめ",
+      "note": "",
+      "tags": [
+        "Contoh",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "東京をはじめ、多くの都市で開催される。",
+          "translation": "Acara ini diadakan di banyak kota, termasuk Tokyo."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-090",
+      "pattern": "～をもとに",
+      "meaning": "berdasarkan pada",
+      "function": "Pola をもとに digunakan untuk menyatakan berdasarkan pada. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + をもとに",
+      "note": "",
+      "tags": [
+        "Dasar",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "調査結果をもとに、報告書を作成した。",
+          "translation": "Saya membuat laporan berdasarkan hasil survei."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    },
+    {
+      "id": "n2-091",
+      "pattern": "～に応じて",
+      "meaning": "sesuai dengan; bergantung pada",
+      "function": "Pola に応じて digunakan untuk menyatakan sesuai dengan; bergantung pada. Makna mengikuti konteks pengantar pola pada transcript video.",
+      "formation": "N + に応じて",
+      "note": "",
+      "tags": [
+        "Kesesuaian",
+        "JLPT N2"
+      ],
+      "examples": [
+        {
+          "japanese": "能力に応じて、仕事を任せる。",
+          "translation": "Pekerjaan diberikan sesuai kemampuan."
+        }
+      ],
+      "createdAt": 0,
+      "updatedAt": 0,
+      "source": "bundled",
+      "contentVersion": "2.0.0",
+      "contentId": "learningn2"
+    }
+  ],
+  "kotoba": []
+}
