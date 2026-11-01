@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1,
   "schemaVersion": "1.0.0",
-  "contentVersion": "2.0.0",
-  "lastUpdated": "2026-10-31T21:00:00.000Z",
+  "contentVersion": "2.1.0",
+  "lastUpdated": "2026-11-01T23:30:00.000Z",
   "bunpouCount": 91,
-  "kotobaCount": 355,
-  "packName": "NihonggoKu JLPT N2 (LearningN2 Bunpou + H2-H4V2 Kotoba)",
-  "packDescription": "91 pola tata bahasa N2 dari LearningN2 dan kosakata H2-H4V2"
+  "kotobaCount": 402,
+  "packName": "NihonggoKu JLPT N2 (LearningN2 Bunpou + H2-H4V2 Kotoba + H5)",
+  "packDescription": "91 pola tata bahasa N2 dari LearningN2 + kosakata H2-H5 (H5 baru: 47 kata)"
 }
