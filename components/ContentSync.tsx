@@ -2,9 +2,6 @@
 
 import { useEffect } from 'react';
 import { getContentVersion, mergeContent } from '@/lib/contentManager';
-import manifest from '@/content/manifest.json';
-import bunpouData from '@/content/bunpou/data.json';
-import kotobaData from '@/content/kotoba/data.json';
 
 export default function ContentSync() {
   useEffect(() => {
@@ -12,15 +9,21 @@ export default function ContentSync() {
       console.log('ContentSync: starting sync');
       try {
         const installedVersion = await getContentVersion();
-        const bundledVersion = manifest.contentVersion;
+        const bundledVersion = '1.0.3';
         console.log('ContentSync: installedVersion=', installedVersion, 'bundledVersion=', bundledVersion);
 
         if (!installedVersion || installedVersion !== bundledVersion) {
           console.log('ContentSync: syncing content...');
+          const [bunpouRes, kotobaRes] = await Promise.all([
+            fetch('/api/content?type=bunpou&file=data.json'),
+            fetch('/api/content?type=kotoba&file=data.json'),
+          ]);
+          const bunpouData = await bunpouRes.json();
+          const kotobaData = await kotobaRes.json();
           const result = await mergeContent({
-            manifest,
-            bunpou: bunpouData as any[],
-            kotoba: kotobaData as any[],
+            manifest: { contentVersion: '1.0.3' },
+            bunpou: Array.isArray(bunpouData) ? bunpouData : [],
+            kotoba: Array.isArray(kotobaData) ? kotobaData : [],
           });
           console.log('ContentSync: sync complete:', result);
         } else {
