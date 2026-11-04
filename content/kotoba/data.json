@@ -3386,5 +3386,1105 @@
     "createdAt": 0,
     "updatedAt": 0,
     "note": "✅ (Grammar)"
+  },
+  {
+    "id": "h6-0004",
+    "word": "鴨がねぎをしょって来る",
+    "kanji": "",
+    "reading": "鴨がねぎをしょって来る",
+    "meaning": "–",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "かもがねぎをしょってくる",
+        "translation": "–"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "mangsa empuk datang sendiri / bawa keuntungan sendiri"
+  },
+  {
+    "id": "h6-0005",
+    "word": "巻く",
+    "kanji": "",
+    "reading": "巻く",
+    "meaning": "包帯を巻いた",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "まく",
+        "translation": "包帯を巻いた"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "melilitkan / membalut"
+  },
+  {
+    "id": "h6-0006",
+    "word": "実用的",
+    "kanji": "",
+    "reading": "実用的",
+    "meaning": "実用的ではない",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "じつようてき",
+        "translation": "実用的ではない"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "praktis / bernilai guna"
+  },
+  {
+    "id": "h6-0007",
+    "word": "職人",
+    "kanji": "",
+    "reading": "職人",
+    "meaning": "父は職人だった",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "しょくにん",
+        "translation": "父は職人だった"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "perajin / tukang terampil"
+  },
+  {
+    "id": "h6-0008",
+    "word": "震える",
+    "kanji": "",
+    "reading": "震える",
+    "meaning": "体が震えた",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ふるえる",
+        "translation": "体が震えた"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "menggigil / gemetar"
+  },
+  {
+    "id": "h6-0009",
+    "word": "率直",
+    "kanji": "",
+    "reading": "率直",
+    "meaning": "率直に意見を述べる",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "そっちょく",
+        "translation": "率直に意見を述べる"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "terus terang / blak-blakan"
+  },
+  {
+    "id": "h6-0010",
+    "word": "接近",
+    "kanji": "",
+    "reading": "接近",
+    "meaning": "地球に接近する",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "せっきん",
+        "translation": "地球に接近する"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "mendekat / menghampiri"
+  },
+  {
+    "id": "h6-0011",
+    "word": "貯蔵",
+    "kanji": "",
+    "reading": "貯蔵",
+    "meaning": "ワインが貯蔵されている",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ちょぞう",
+        "translation": "ワインが貯蔵されている"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "penyimpanan / menimbun"
+  },
+  {
+    "id": "h6-0012",
+    "word": "講堂",
+    "kanji": "",
+    "reading": "講堂",
+    "meaning": "大学の講堂",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "こうどう",
+        "translation": "大学の講堂"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "auditorium / aula kuliah"
+  },
+  {
+    "id": "h6-0013",
+    "word": "涼しい",
+    "kanji": "",
+    "reading": "涼しい",
+    "meaning": "ようやく涼しくなってきた",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "すずしい",
+        "translation": "ようやく涼しくなってきた"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "sejuk / adem"
+  },
+  {
+    "id": "h6-0014",
+    "word": "沈む",
+    "kanji": "",
+    "reading": "沈む",
+    "meaning": "漁船が沈んでしまった",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "しずむ",
+        "translation": "漁船が沈んでしまった"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "tenggelam"
+  },
+  {
+    "id": "h6-0015",
+    "word": "見直す",
+    "kanji": "",
+    "reading": "見直す",
+    "meaning": "もう一度見直す",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "みなおす",
+        "translation": "もう一度見直す"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "memeriksa kembali"
+  },
+  {
+    "id": "h6-0016",
+    "word": "取り消す",
+    "kanji": "",
+    "reading": "取り消す",
+    "meaning": "採用を取り消された",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "とりけす",
+        "translation": "採用を取り消された"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "membatalkan"
+  },
+  {
+    "id": "h6-0017",
+    "word": "元調子",
+    "kanji": "",
+    "reading": "元調子",
+    "meaning": "元調子に戻らない",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "もとちょうし",
+        "translation": "元調子に戻らない"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "kondisi semula / fit semula"
+  },
+  {
+    "id": "h6-0018",
+    "word": "影響下",
+    "kanji": "",
+    "reading": "影響下",
+    "meaning": "前社長の影響下",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "えいきょうか",
+        "translation": "前社長の影響下"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "di bawah pengaruh"
+  },
+  {
+    "id": "h6-0019",
+    "word": "世界史",
+    "kanji": "",
+    "reading": "世界史",
+    "meaning": "世界史の勉強",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "せかいし",
+        "translation": "世界史の勉強"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "sejarah dunia"
+  },
+  {
+    "id": "h6-0020",
+    "word": "共同",
+    "kanji": "",
+    "reading": "共同",
+    "meaning": "共同で開発している",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "きょうどう",
+        "translation": "共同で開発している"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "bersama-sama / gabungan (joint)"
+  },
+  {
+    "id": "h6-0021",
+    "word": "失業保険",
+    "kanji": "",
+    "reading": "失業保険",
+    "meaning": "失業保険を申請した",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "しつぎょうほけん",
+        "translation": "失業保険を申請した"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "asuransi pengangguran"
+  },
+  {
+    "id": "h6-0022",
+    "word": "貨物",
+    "kanji": "",
+    "reading": "貨物",
+    "meaning": "貨物を載せた列車",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "かもつ",
+        "translation": "貨物を載せた列車"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "kargo / muatan barang"
+  },
+  {
+    "id": "h6-0023",
+    "word": "交差",
+    "kanji": "",
+    "reading": "交差",
+    "meaning": "道路が交差している",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "こうさ",
+        "translation": "道路が交差している"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "bersilangan / persimpangan"
+  },
+  {
+    "id": "h6-0024",
+    "word": "漫画",
+    "kanji": "",
+    "reading": "漫画",
+    "meaning": "漫画を描く",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "まんが",
+        "translation": "漫画を描く"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "komik / manga"
+  },
+  {
+    "id": "h6-0025",
+    "word": "指定",
+    "kanji": "",
+    "reading": "指定",
+    "meaning": "全席指定",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "してい",
+        "translation": "全席指定"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "penentuan / reservasi"
+  },
+  {
+    "id": "h6-0026",
+    "word": "航空ショー",
+    "kanji": "",
+    "reading": "航空ショー",
+    "meaning": "航空ショー",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "こうくうショー",
+        "translation": "航空ショー"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "pertunjukan dirgantara (air show)"
+  },
+  {
+    "id": "h6-0027",
+    "word": "おそらく",
+    "kanji": "",
+    "reading": "おそらく",
+    "meaning": "おそらく来ないだろう",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "おそらく",
+        "translation": "おそらく来ないだろう"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "kemungkinan besar / barangkali"
+  },
+  {
+    "id": "h6-0028",
+    "word": "気配",
+    "kanji": "",
+    "reading": "気配",
+    "meaning": "誰かがつけてくる気配",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "けはい",
+        "translation": "誰かがつけてくる気配"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "tanda kehadiran / gelagat"
+  },
+  {
+    "id": "h6-0029",
+    "word": "あっという間に",
+    "kanji": "",
+    "reading": "あっという間に",
+    "meaning": "あっという間に売り切れた",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "あっというまに",
+        "translation": "あっという間に売り切れた"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "dalam sekejap mata"
+  },
+  {
+    "id": "h6-0030",
+    "word": "厳しい",
+    "kanji": "",
+    "reading": "厳しい",
+    "meaning": "きびしいおしかり",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "きびしい",
+        "translation": "きびしいおしかり"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "keras / ketat / tegas"
+  },
+  {
+    "id": "h6-0031",
+    "word": "略す",
+    "kanji": "",
+    "reading": "略す",
+    "meaning": "説明を略した",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "りゃくす",
+        "translation": "説明を略した"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "memangkas / menyingkat"
+  },
+  {
+    "id": "h6-0032",
+    "word": "清書",
+    "kanji": "",
+    "reading": "清書",
+    "meaning": "理由書を清書する",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "せいしょ",
+        "translation": "理由書を清書する"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "menyalin bersih (draf ke salinan rapi)"
+  },
+  {
+    "id": "h6-0033",
+    "word": "光景",
+    "kanji": "",
+    "reading": "光景",
+    "meaning": "悲しい光景を見る",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "こうけい",
+        "translation": "悲しい光景を見る"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "pemandangan / adegan kejadian (scene)"
+  },
+  {
+    "id": "h6-0034",
+    "word": "きっと",
+    "kanji": "",
+    "reading": "きっと",
+    "meaning": "きっといい記録が出るだろう",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "きっと",
+        "translation": "きっといい記録が出るだろう"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "pasti / yakin (prediksi kuat ～だろう)"
+  },
+  {
+    "id": "h6-0035",
+    "word": "惨め",
+    "kanji": "",
+    "reading": "惨め",
+    "meaning": "みじめな負け方をした",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "みじめ",
+        "translation": "みじめな負け方をした"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "menyedihkan / mengenaskan"
+  },
+  {
+    "id": "h6-0036",
+    "word": "方言",
+    "kanji": "",
+    "reading": "方言",
+    "meaning": "方言が多くてわからない",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ほうげん",
+        "translation": "方言が多くてわからない"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "dialek bahasa daerah"
+  },
+  {
+    "id": "h6-0037",
+    "word": "～からすると",
+    "kanji": "",
+    "reading": "～からすると",
+    "meaning": "よう子からすると",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～からすると",
+        "translation": "よう子からすると"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "dilihat dari / menilik dari (penilaian)"
+  },
+  {
+    "id": "h6-0038",
+    "word": "～によれば",
+    "kanji": "",
+    "reading": "～によれば",
+    "meaning": "情報によれば",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～によれば",
+        "translation": "情報によれば"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "menurut (sumber tertentu)"
+  },
+  {
+    "id": "h6-0039",
+    "word": "～に加えて",
+    "kanji": "",
+    "reading": "～に加えて",
+    "meaning": "夏に加えて冬も",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～にかえて",
+        "translation": "夏に加えて冬も"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "ditambah dengan / selain itu juga"
+  },
+  {
+    "id": "h6-0040",
+    "word": "～に限って",
+    "kanji": "",
+    "reading": "～に限って",
+    "meaning": "沖縄に限って",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～にかぎって",
+        "translation": "沖縄に限って"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "khusus / semata-mata (penekanan)"
+  },
+  {
+    "id": "h6-0041",
+    "word": "～ほど～ない",
+    "kanji": "",
+    "reading": "～ほど～ない",
+    "meaning": "気にするほどでもない",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～ほど～ない",
+        "translation": "気にするほどでもない"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "tidak sampai / bukan berarti..."
+  },
+  {
+    "id": "h6-0042",
+    "word": "感動のあまり",
+    "kanji": "",
+    "reading": "感動のあまり",
+    "meaning": "感動のあまり涙を流す",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "かんどうのあまり",
+        "translation": "感動のあまり涙を流す"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "saking / terlalu (emosi kuat)"
+  },
+  {
+    "id": "h6-0043",
+    "word": "お～願います",
+    "kanji": "",
+    "reading": "お～願います",
+    "meaning": "お申し付けて願います",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "お～がんいします",
+        "translation": "お申し付けて願います"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "tolonglah (keigo bisnis/permintaan)"
+  },
+  {
+    "id": "h6-0044",
+    "word": "～しかない",
+    "kanji": "",
+    "reading": "～しかない",
+    "meaning": "練習するしかない",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～しかない",
+        "translation": "練習するしかない"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "tidak ada pilihan selain..."
+  },
+  {
+    "id": "h6-0045",
+    "word": "～ながら",
+    "kanji": "",
+    "reading": "～ながら",
+    "meaning": "テレビを見ながら",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～ながら",
+        "translation": "テレビを見ながら"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "sambil melakukan dua hal"
+  },
+  {
+    "id": "h6-0046",
+    "word": "～に伴う",
+    "kanji": "",
+    "reading": "～に伴う",
+    "meaning": "移転に伴う引っ越し",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～にともなう",
+        "translation": "移転に伴う引っ越し"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "bersamaan dengan / seiring dengan (perubahan)"
+  },
+  {
+    "id": "h6-0047",
+    "word": "～末に",
+    "kanji": "",
+    "reading": "～末に",
+    "meaning": "格闘になった末に",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～しまい",
+        "translation": "格闘になった末に"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "setelah berkali-kali / pada akhirnya (keadaan susah)"
+  },
+  {
+    "id": "h6-0048",
+    "word": "～ものだから",
+    "kanji": "",
+    "reading": "～ものだから",
+    "meaning": "高かったものだから",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "～ものだから",
+        "translation": "高かったものだから"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "karena sudah begitu / memang begitu"
+  },
+  {
+    "id": "h6-0049",
+    "word": "～に先立って",
+    "kanji": "",
+    "reading": "～に先立って",
+    "meaning": "開始に先立って",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "にせんたちって",
+        "translation": "開始に先立って"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "sebelum / mendahului"
+  },
+  {
+    "id": "h6-0050",
+    "word": "～からには",
+    "kanji": "",
+    "reading": "～からには",
+    "meaning": "買ったからには",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "からには",
+        "translation": "買ったからには"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "sekali sudah / sudah begitu"
+  },
+  {
+    "id": "h6-0051",
+    "word": "～にかかわらず",
+    "kanji": "",
+    "reading": "～にかかわらず",
+    "meaning": "いい悪いにかかわらず",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "にかかわらず",
+        "translation": "いい悪いにかかわらず"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "tidak peduli / terlepas dari"
+  },
+  {
+    "id": "h6-0052",
+    "word": "～たところ",
+    "kanji": "",
+    "reading": "～たところ",
+    "meaning": "募集したところ",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "たところ",
+        "translation": "募集したところ"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "setelah (melakukan sesuatu) ternyata"
+  },
+  {
+    "id": "h6-0053",
+    "word": "～ているところに",
+    "kanji": "",
+    "reading": "～ているところに",
+    "meaning": "思っていたところに",
+    "partOfSpeech": null,
+    "examples": [
+      {
+        "japanese": "ているところに",
+        "translation": "思っていたところに"
+      }
+    ],
+    "tags": [
+      "H6"
+    ],
+    "contentVersion": "1.0.0",
+    "contentId": "mock-tests",
+    "createdAt": 0,
+    "updatedAt": 0,
+    "note": "sedang (melakukan/memikirkan)"
   }
 ]

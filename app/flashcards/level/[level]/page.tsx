@@ -1,9 +1,8 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { getAll } from '@/lib/db';
-import type { Kotoba } from '@/types';
 import Link from 'next/link';
+import type { Kotoba } from '@/types';
 
 const LEVEL_MAP: Record<string, string> = {
   h2: 'H2',
@@ -14,16 +13,39 @@ const LEVEL_MAP: Record<string, string> = {
 
 export default function LevelFlashcardsPage({ params }: { params: { level: string } }) {
   const [items, setItems] = useState<Kotoba[]>([]);
+  const [loading, setLoading] = useState(true);
   const level = LEVEL_MAP[params.level] || params.level.toUpperCase();
 
   useEffect(() => {
-    getAll<Kotoba>('kotoba').then(data => {
-      setItems(data.filter(i => i.tags && i.tags.includes(level)));
-    });
-  }, [params.level]);
+    let cancelled = false;
+    async function loadData() {
+      try {
+        const res = await fetch(`/api/content?type=kotoba&file=data.json`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const allData: Kotoba[] = await res.json();
+        const filtered = allData.filter((i: Kotoba) => i.tags && i.tags.includes(level));
+        if (!cancelled) {
+          setItems(filtered);
+          setLoading(false);
+        }
+      } catch (err) {
+        console.error('Failed to load data:', err);
+        if (!cancelled) setLoading(false);
+      }
+    }
+    loadData();
+    return () => { cancelled = true; };
+  }, [level]);
+
+  if (loading) {
+    return (
+      <div className="max-w-lg mx-auto py-12 text-center">
+        <p className="text-lg text-secondary-text">Memuat data...</p>
+      </div>
+    );
+  }
 
   const total = items.length;
-  const progress = total > 0 ? Math.round((0 / total) * 100) : 0;
 
   if (items.length === 0) {
     return (
@@ -38,7 +60,7 @@ export default function LevelFlashcardsPage({ params }: { params: { level: strin
           href="/flashcards"
           className="mt-4 text-accent dark:text-dark-accent hover:underline"
         >
-          ← Kembali ke Flashcards
+          &larr; Kembali ke Flashcards
         </Link>
       </div>
     );
@@ -55,6 +77,16 @@ export default function LevelFlashcardsPage({ params }: { params: { level: strin
   const [knownCards, setKnownCards] = useState<string[]>([]);
   const [sessionFinished, setSessionFinished] = useState(false);
 
+  // Auto-advance: after 3 seconds, automatically go to next card
+  useEffect(() => {
+    if (sessionFinished) return;
+    const timer = setTimeout(() => {
+      setCardFlipped(false);
+      nextCard();
+    }, 3000);
+    return () => clearTimeout(timer);
+  }, [currentItem.id, sessionFinished]);
+
   const handleKnown = () => {
     setKnownCards(prev => [...prev, currentItem.id]);
     nextCard();
@@ -66,12 +98,9 @@ export default function LevelFlashcardsPage({ params }: { params: { level: strin
 
   const nextCard = () => {
     setCardFlipped(false);
-    setTimeout(() => {
-      if (sessionFinished) return;
-      const idx = items.findIndex(i => i.id === currentItem.id);
-      const nextIdx = (idx + 1) % total;
-      setCurrentItem(items[nextIdx]);
-    }, 150);
+    const idx = items.findIndex(i => i.id === currentItem.id);
+    const nextIdx = (idx + 1) % total;
+    setCurrentItem(items[nextIdx]);
   };
 
   return (
@@ -97,16 +126,16 @@ export default function LevelFlashcardsPage({ params }: { params: { level: strin
 
       {/* Progress */}
       <div className="mb-6">
-        <div className="h-2 bg-soft-accent dark:bg-dark-border rounded-full overflow-hidden">
-          <div
-            className="h-full bg-accent dark:bg-dark-accent transition-all duration-300"
-            style={{ width: `${progress}%` }}
-          />
-        </div>
-        <p className="text-sm text-secondary-text dark:text-dark-secondary-text mt-2">
-          {1} / {total}
-        </p>
-      </div>
+              <div className="h-2 bg-soft-accent dark:bg-dark-border rounded-full overflow-hidden">
+                <div
+                  className="h-full bg-accent dark:bg-dark-accent transition-all duration-300"
+                  style={{ width: `${total > 0 ? 100 : 0}%` }}
+                />
+              </div>
+              <p className="text-sm text-secondary-text dark:text-dark-secondary-text mt-2">
+                {total > 0 ? Math.round((1 / total) * 100) : 0} / {total}
+              </p>
+            </div>
 
       {/* Card */}
       <div
